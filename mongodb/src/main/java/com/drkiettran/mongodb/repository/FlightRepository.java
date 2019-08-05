@@ -16,6 +16,9 @@ public interface FlightRepository extends MongoRepository<Flight, String> {
 
 	
 	@Query("{}")
-	ArrayList<Flight> findByArrDelay();
-
+	ArrayList<Flight> findByLeastArrDelay();
+	
+	@Query("{}")
+	ArrayList<Flight> findByMostArrDelay();
+	
 }

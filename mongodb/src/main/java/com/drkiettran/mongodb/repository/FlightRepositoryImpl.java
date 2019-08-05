@@ -53,10 +53,8 @@ public class FlightRepositoryImpl implements FlightRepository {
 		
 	}
 
-
-
 	@Override
-	public ArrayList<Flight> findByArrDelay() {
+	public ArrayList<Flight> findByLeastArrDelay() {
 		ArrayList<Flight> flightsList = (ArrayList<Flight>) mongoTemplate.findAll(Flight.class);
 		Collections.sort(flightsList, new Comparator<Flight>() {
 
@@ -80,6 +78,36 @@ public class FlightRepositoryImpl implements FlightRepository {
 					return 0;
 				}
 				return timeDelay1 < timeDelay2 ? -1 : 1;
+			}
+		});
+		return flightsList;
+	}
+
+	@Override
+	public ArrayList<Flight> findByMostArrDelay() {
+		ArrayList<Flight> flightsList = (ArrayList<Flight>) mongoTemplate.findAll(Flight.class);
+		Collections.sort(flightsList, new Comparator<Flight>() {
+
+			@Override
+			public int compare(Flight o1, Flight o2) {
+				if(o1.getArrDelay() == null && o2.getArrDelay() == null )
+					return 0;
+				else if (o1.getArrDelay() == null)
+					return 1;
+				else if (o2.getArrDelay() == null)
+					return -1;
+				int timeDelay1 = 0;
+				int timeDelay2 = 0;
+				for (int i =0;i< o1.getArrDelay().size();i++) {
+					timeDelay1 = timeDelay1 + o1.getArrDelay().get(i).getTime();
+				}
+				for (int i =0;i< o2.getArrDelay().size();i++) {
+					timeDelay2 = timeDelay2 + o2.getArrDelay().get(i).getTime();
+				}
+				if (timeDelay1 == timeDelay2) {
+					return 0;
+				}
+				return timeDelay1 < timeDelay2 ? 1 : -1;
 			}
 		});
 		return flightsList;
