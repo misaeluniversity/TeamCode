@@ -1,0 +1,1491 @@
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a09"},"Code":"02Q","Description":"Titan Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a0a"},"Code":"04Q","Description":"Tradewind Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a0b"},"Code":"05Q","Description":"Comlux Aviation, AG"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a0c"},"Code":"06Q","Description":"Master Top Linhas Aereas Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a0d"},"Code":"07Q","Description":"Flair Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a0e"},"Code":"09Q","Description":"Swift Air, LLC"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a0f"},"Code":"0CQ","Description":"ACM AIR CHARTER GmbH"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a10"},"Code":"0FQ","Description":"Maine Aviation Aircraft Charter, LLC"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a11"},"Code":"0GQ","Description":"Inter Island Airways, d/b/a Inter Island Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a12"},"Code":"0HQ","Description":"Polar Airlines de Mexico d/b/a Nova Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a13"},"Code":"0J","Description":"JetClub AG"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a14"},"Code":"0JQ","Description":"Vision Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a15"},"Code":"0KQ","Description":"Mokulele Flight Services, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a16"},"Code":"0LQ","Description":"Metropix UK, LLP."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a17"},"Code":"0MQ","Description":"Multi-Aero, Inc. d/b/a Air Choice One"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a18"},"Code":"0Q","Description":"Flying Service N.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a19"},"Code":16,"Description":"PSA Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a1a"},"Code":17,"Description":"Piedmont Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a1b"},"Code":"1I","Description":"Sky Trek Int'l Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a1c"},"Code":"2E","Description":"Smokey Bay Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a1d"},"Code":"2F","Description":"Frontier Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a1e"},"Code":"2M","Description":"Midway Express Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a1f"},"Code":"2O","Description":"Island Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a20"},"Code":"2R","Description":"Regal Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a21"},"Code":"2U","Description":"Valley Air Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a22"},"Code":37,"Description":"Zeal 320"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a23"},"Code":"0BQ","Description":"DCA"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a24"},"Code":"3C","Description":"Regions Air, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a25"},"Code":"3Z","Description":"Tatonduk Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a26"},"Code":"4B","Description":"Olson Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a27"},"Code":"4E","Description":"Tanana Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a28"},"Code":"2T","Description":"Canada 3000 Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a29"},"Code":"4H","Description":"Belize Trans Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a2a"},"Code":"3F","Description":"Pacific Airways, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a2b"},"Code":"4M","Description":"LAN Argentina"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a2c"},"Code":"4M (1)","Description":"Lan Dominica"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a2d"},"Code":"4N","Description":"Air North"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a2e"},"Code":"4R","Description":"Regent Air Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a2f"},"Code":"3M","Description":"Gulfstream Int"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a30"},"Code":"4T","Description":"Belair Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a31"},"Code":"4W","Description":"Warbelow"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a32"},"Code":"4Y","Description":"Yute Air Aka Flight Alaska"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a33"},"Code":"5B","Description":"Bellair Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a34"},"Code":"5C","Description":"C.A.L Cargo Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a35"},"Code":"5D","Description":"Aerolitoral"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a36"},"Code":"5F","Description":"Arctic Circle Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a37"},"Code":"5G","Description":"Skyservice Airlines, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a38"},"Code":"5G (1)","Description":"Queen Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a39"},"Code":"5J","Description":"Private Jet Expeditions"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a3a"},"Code":"5X","Description":"United Parcel Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a3b"},"Code":"5Y","Description":"Atlas Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a3c"},"Code":"6A","Description":"Aviacsa Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a3d"},"Code":"6B","Description":"Britannia Airways A.B."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a3e"},"Code":"6C","Description":"Cape Smythe Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a3f"},"Code":"6F","Description":"Laker Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a40"},"Code":"6H","Description":"Israir Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a41"},"Code":"6P","Description":"Pacific East Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a42"},"Code":"6R","Description":"Aerounion Aerotransporte de Carga Union SA de CV"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a43"},"Code":"6U","Description":"Air Ukraine"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a44"},"Code":"6Y","Description":"Nicaraguense De Aviacion Sa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a45"},"Code":"7B","Description":"Krasair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a46"},"Code":"7F","Description":"First Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a47"},"Code":"7G","Description":"MK Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a48"},"Code":"7G (1)","Description":"Bellair Inc. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a49"},"Code":"7H","Description":"Era Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a4a"},"Code":"7M","Description":"Aeromonterrey S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a4b"},"Code":"7N","Description":"Inland Aviation Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a4c"},"Code":"7P","Description":"Apa International Air S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a4d"},"Code":"7S","Description":"Arctic Transportation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a4e"},"Code":"7S (1)","Description":"Skystar International Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a4f"},"Code":"4S (1)","Description":"Conner Air Lines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a50"},"Code":"7Z","Description":"Lb Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a51"},"Code":"8C","Description":"Air Transport International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a52"},"Code":"4E (1)","Description":"British Airtours Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a53"},"Code":"4S","Description":"Sol Air (Aero Hunduras)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a54"},"Code":"8E","Description":"Bering Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a55"},"Code":"8L","Description":"Servicio Aereo Leo Lopez"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a56"},"Code":"8N","Description":"Flagship Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a57"},"Code":"8Q","Description":"Baker Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a58"},"Code":"8R","Description":"Edelweiss Air Ag"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a59"},"Code":"8V","Description":"Wright Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a5a"},"Code":"9E","Description":"Pinnacle Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a5b"},"Code":"9J","Description":"Pacific Island Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a5c"},"Code":"9K","Description":"Cape Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a5d"},"Code":"9L","Description":"Colgan Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a5e"},"Code":"9M","Description":"Central Mountain Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a5f"},"Code":"9N","Description":"ANA \u0026 JP Express Co. Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a60"},"Code":"9R","Description":"Flagship Express Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a61"},"Code":"9S","Description":"Southern Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a62"},"Code":"9T","Description":"TravelspanGT, Inc. S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a63"},"Code":"9V","Description":"Avior Airlines, C.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a64"},"Code":"9W","Description":"Jet Airways (India) Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a65"},"Code":"A0","Description":"Elysair d/b/a L'Avion"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a66"},"Code":"A2","Description":"Cielos De Peru"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a67"},"Code":"8J","Description":"Jetall Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a68"},"Code":"A4","Description":"Southern Wind Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a69"},"Code":"A7","Description":"Air Comet S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a6a"},"Code":"A7 (1)","Description":"Air 21"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a6b"},"Code":"AA","Description":"American Airlines Inc.","depDelay":[{"time":6387015,"year":1996},{"time":4779906,"year":1997}],"arrDelay":[{"time":6962595,"year":1996},{"time":3151180,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a6c"},"Code":"AAA","Description":"Associated Aviation Act."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a6d"},"Code":"8F","Description":"Wilburs Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a6e"},"Code":"8D","Description":"Servant Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a6f"},"Code":"AAB","Description":"Antilles Air Boats Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a70"},"Code":"AAE","Description":"AAA Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a71"},"Code":"AAQ","Description":"Advance Air Charters"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a72"},"Code":"AAI","Description":"Audi Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a73"},"Code":"AAT","Description":"Air Sunshine Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a74"},"Code":"AAR","Description":"Altair Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a75"},"Code":"AAV","Description":"Alpine Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a76"},"Code":"AAP","Description":"Armstrong Air Service Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a77"},"Code":"ABI","Description":"Airbama Incorporated"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a78"},"Code":"ABO","Description":"Aeronaves Boringuena Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a79"},"Code":"ABX","Description":"Abx Air, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a7a"},"Code":"AAL","Description":"Argosy Air Lines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a7b"},"Code":"AAZ","Description":"Alaska Aeronautical Indust."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a7c"},"Code":"ACD","Description":"Academy Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a7d"},"Code":"ACG","Description":"Air Cargo Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a7e"},"Code":"ABH","Description":"Air Bahia"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a7f"},"Code":"ACH","Description":"Island Airlines Hawaii Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a80"},"Code":"ACI","Description":"AAA-Action Air Carrier Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a81"},"Code":"AC","Description":"Air Canada"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a82"},"Code":"ACL","Description":"Check-Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a83"},"Code":"ACN","Description":"Alliance Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a84"},"Code":"ACO","Description":"Air Cargo Enterprises Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a85"},"Code":"ACP","Description":"Air Chaparral Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a86"},"Code":"ACQ","Description":"Aeronautica De Cancun"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a87"},"Code":"ACS","Description":"Alamo Commuter Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a88"},"Code":"ACA","Description":"Alaska Central Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a89"},"Code":"ACT","Description":"Air Central Inc. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a8a"},"Code":"ACW","Description":"Transwest Air Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a8b"},"Code":"ACJ","Description":"Atlantic Coast Jet Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a8c"},"Code":"ACK","Description":"Air Central Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a8d"},"Code":"AD","Description":"Avia Leasing Company"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a8e"},"Code":"AE","Description":"Air Europe Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a8f"},"Code":"AEC","Description":"Astec Air East Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a90"},"Code":"AED","Description":"Air East Of Delaware Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a91"},"Code":"AEF","Description":"Aero Freight"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a92"},"Code":"AEO","Description":"Aero Coach"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a93"},"Code":"ADQ","Description":"Aeronaves Del Peru"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a94"},"Code":"ADR","Description":"Adirondack Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a95"},"Code":"AF","Description":"Compagnie Nat'l Air France"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a96"},"Code":"AFA","Description":"American Flag Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a97"},"Code":"AFE","Description":"Air Florida Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a98"},"Code":"AFG","Description":"American Flight Group"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a99"},"Code":"AFQ","Description":"Aero B Venezuela C.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a9a"},"Code":"AFS","Description":"Arcata Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a9b"},"Code":"AGA","Description":"Air Cargo America Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a9c"},"Code":"AGQ","Description":"Argo S. A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a9d"},"Code":"AHA","Description":"Air Alpha"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a9e"},"Code":"AHC","Description":"Air Hawaii"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73a9f"},"Code":"AHQ","Description":"Air National"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa0"},"Code":"AI","Description":"Air-India"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa1"},"Code":"AIA","Description":"All Island Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa2"},"Code":"AIC","Description":"Air Caribbean"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa3"},"Code":"AIE","Description":"Air Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa4"},"Code":"AIG","Description":"Airgo Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa5"},"Code":"AIK","Description":"Air Ketchum Idaho Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa6"},"Code":"AIM","Description":"Air Mont. Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa7"},"Code":"ADV","Description":"Advantage Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa8"},"Code":"AEQ","Description":"Air Caravane Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aa9"},"Code":"AEX","Description":"Air Excursions LLC"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aaa"},"Code":"AIN","Description":"Air Indiana"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aab"},"Code":"AIQ","Description":"Norontair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aac"},"Code":"AIT","Description":"Airways International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aad"},"Code":"AIY","Description":"Alliance Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aae"},"Code":"AJ","Description":"Air Micronesia Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aaf"},"Code":"ALD","Description":"Allied Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab0"},"Code":"ALE","Description":"Air-Lift Associates Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab1"},"Code":"ALI","Description":"Brandt Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab2"},"Code":"ALK","Description":"Air Link Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab3"},"Code":"ALL","Description":"All Seasons Air Pacific"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab4"},"Code":"ALQ","Description":"Alberta Northern Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab5"},"Code":"ALS","Description":"Air L.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab6"},"Code":"ALT","Description":"Altus Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab7"},"Code":"ALU","Description":"Aleutian Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab8"},"Code":"ALX","Description":"Atlanta Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ab9"},"Code":"AM","Description":"Aeromexico"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aba"},"Code":"AMA","Description":"North American Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73abb"},"Code":"AME","Description":"Americair Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73abc"},"Code":"AMI","Description":"American Inter-Island Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73abd"},"Code":"AMQ","Description":"Ameristar Air Cargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73abe"},"Code":"AMR","Description":"AvAir"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73abf"},"Code":"AMT","Description":"American Air Transport"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac0"},"Code":"ANB","Description":"Air Nebraska Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac1"},"Code":"AJQ","Description":"Aerodynamics Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac2"},"Code":"AKQ","Description":"Airmark Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac3"},"Code":"AL","Description":"Skyway Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac4"},"Code":"ANC","Description":"Atlantic Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac5"},"Code":"AND","Description":"Southcentral Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac6"},"Code":"ANI","Description":"Dash Air Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac7"},"Code":"ANM","Description":"Airways Of New Mexico Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac8"},"Code":"ANO","Description":"Metro Air Northeast Vermont"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ac9"},"Code":"AON","Description":"Action Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aca"},"Code":"AOQ","Description":"Aerovias S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73acb"},"Code":"AOR","Description":"Air New Orleans"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73acc"},"Code":"APE","Description":"Air Cape"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73acd"},"Code":"APH","Description":"Alpha Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ace"},"Code":"API","Description":"Arizona Pacific Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73acf"},"Code":"APL","Description":"Appalachian Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad0"},"Code":"APN","Description":"Aspen Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad1"},"Code":"APQ","Description":"Alas De Transporte Int'l"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad2"},"Code":"APS","Description":"Air Spirit Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad3"},"Code":"APY","Description":"Air Polynesia Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad4"},"Code":"AQ","Description":"Aloha Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad5"},"Code":"AQQ","Description":"Air Charter (Safa)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad6"},"Code":"AR","Description":"Aerolineas Argentinas"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad7"},"Code":"ARA","Description":"Air Resorts Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad8"},"Code":"ARB","Description":"Air Caribe International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ad9"},"Code":"ARD","Description":"Airlift International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ada"},"Code":"ARI","Description":"Arizona Aero Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73adb"},"Code":"ANT","Description":"Air North/Nenana"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73adc"},"Code":"AO","Description":"Aviacion Y Comercio S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73add"},"Code":"AOI","Description":"Trans New York"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ade"},"Code":"ARM","Description":"Airmarc Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73adf"},"Code":"ARN","Description":"Arnold Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae0"},"Code":"ARO","Description":"Air Oregon"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae1"},"Code":"ARP","Description":"Airspur Helicopters Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae2"},"Code":"ARQ","Description":"Aerovias Colombianas Arca"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae3"},"Code":"AS","Description":"Alaska Airlines Inc.","depDelay":[{"time":1538771,"year":1996},{"time":1203119,"year":1997}],"arrDelay":[{"time":1859376,"year":1996},{"time":1371248,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae4"},"Code":"ASC","Description":"Air South Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae5"},"Code":"ASD","Description":"Amistad Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae6"},"Code":"ASH","Description":"Air South"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae7"},"Code":"ASI","Description":"Alpine Air Services Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae8"},"Code":"ASN","Description":"Air Casino"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ae9"},"Code":"ASP","Description":"Asap Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aea"},"Code":"ASQ","Description":"Aerosur"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aeb"},"Code":"ASR","Description":"Astor Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aec"},"Code":"AST","Description":"Astro Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aed"},"Code":"ASU","Description":"Air South (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aee"},"Code":"ASW","Description":"Sunrise Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aef"},"Code":"AT","Description":"Royal Air Maroc"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af0"},"Code":"ATH","Description":"Air Southeast"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af1"},"Code":"ATN","Description":"Air Atlantic Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af2"},"Code":"ATO","Description":"Pacific National Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af3"},"Code":"ATQ","Description":"Aero Tranportes Panamenos"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af4"},"Code":"ATS","Description":"Atlantis Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af5"},"Code":"ARR","Description":"Arrowhead Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af6"},"Code":"ARS","Description":"Air Sedona"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af7"},"Code":"ARZ","Description":"Arizona Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af8"},"Code":"ATT","Description":"Aerotransit Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73af9"},"Code":"ATX","Description":"Air Carolina"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73afa"},"Code":"AUQ","Description":"Antonov Design Bureau"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73afb"},"Code":"AUX","Description":"Austin Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73afc"},"Code":"AV","Description":"Aerovias Nac'l De Colombia"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73afd"},"Code":"AVI","Description":"Aero Virgin Islands Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73afe"},"Code":"AVL","Description":"Aviation Sales"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73aff"},"Code":"AVQ","Description":"Aero Laguna S.A. De C.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b00"},"Code":"AVR","Description":"Air Vermont Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b01"},"Code":"AVS","Description":"Aviation Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b02"},"Code":"AVZ","Description":"Southern Jersey Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b03"},"Code":"AWA","Description":"Air West Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b04"},"Code":"AWQ","Description":"Aermediterranea S.P.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b05"},"Code":"AX","Description":"Trans States Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b06"},"Code":"AXQ","Description":"Aeron Int'l Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b07"},"Code":"AY","Description":"Finnair Oy"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b08"},"Code":"AYQ","Description":"Aerodan S.A. De C.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b09"},"Code":"AZ","Description":"Alitalia-Linee Aeree Italia"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b0a"},"Code":"AZP","Description":"Arizona Pacific Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b0b"},"Code":"AZQ","Description":"Anglo Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b0c"},"Code":"B4","Description":"Globespan Airways Limited d/b/a Flyglobespan"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b0d"},"Code":"B6","Description":"JetBlue Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b0e"},"Code":"BA","Description":"British Airways Plc"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b0f"},"Code":"AVA","Description":"Air Vectors Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b10"},"Code":"AVC","Description":"Av Center Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b11"},"Code":"AVG","Description":"Airvantage"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b12"},"Code":"BAA","Description":"Aero International Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b13"},"Code":"BAC","Description":"Business Aircraft Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b14"},"Code":"BAH","Description":"Brennan \u0026 Hargreaves Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b15"},"Code":"BAK","Description":"Bankair Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b16"},"Code":"BAN","Description":"Bangor International Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b17"},"Code":"BAY","Description":"Burlington Aeroplane Co."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b18"},"Code":"BBQ","Description":"Balair Ag"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b19"},"Code":"BCA","Description":"Baja Cortez Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b1a"},"Code":"BCQ","Description":"Bradley Air Services Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b1b"},"Code":"BD","Description":"British Midland Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b1c"},"Code":"BDE","Description":"Jet Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b1d"},"Code":"BDQ","Description":"Aerotaxis De Aguascalientes S.A. De C.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b1e"},"Code":"BE","Description":"Braniff Int'l Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b1f"},"Code":"BEA","Description":"Business Express Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b20"},"Code":"BEN","Description":"Bennington Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b21"},"Code":"BEQ","Description":"Air Belgium"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b22"},"Code":"BEY","Description":"Beyer Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b23"},"Code":"BF","Description":"Markair Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b24"},"Code":"BFG","Description":"Million Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b25"},"Code":"BFQ","Description":"Buffalo Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b26"},"Code":"BG","Description":"Biman Bangladesh Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b27"},"Code":"BGQ","Description":"Airbus Transport Internat'l"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b28"},"Code":"BHK","Description":"Blackhawk Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b29"},"Code":"BAQ","Description":"Aero Rentas De Coahuila S.A. De C.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b2a"},"Code":"BAR","Description":"Bard-Air Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b2b"},"Code":"BAT","Description":"West Penn Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b2c"},"Code":"BHO","Description":"Bighorn Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b2d"},"Code":"BHQ","Description":"Turks Air Ltd. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b2e"},"Code":"BIA","Description":"Big Island Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b2f"},"Code":"BIQ","Description":"Servicios Aeronauticos Z S.A. De C.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b30"},"Code":"BIR","Description":"Birchwood Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b31"},"Code":"BMT","Description":"Bremerton Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b32"},"Code":"BN","Description":"Britannia Airways GmbH"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b33"},"Code":"BN (1)","Description":"Braniff Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b34"},"Code":"BNQ","Description":"Netjets Large Aircraft Company L.L.C."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b35"},"Code":"BOA","Description":"Boise Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b36"},"Code":"BOI","Description":"Bo-S-Aire Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b37"},"Code":"BOQ","Description":"Transp. Aereos Bolivianos"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b38"},"Code":"BQ","Description":"Aeromar C. Por A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b39"},"Code":"BR","Description":"Eva Airways Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b3a"},"Code":"BR (1)","Description":"Cal Air Int'l Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b3b"},"Code":"BRK","Description":"Barken International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b3c"},"Code":"BRO","Description":"Brower Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b3d"},"Code":"BRQ","Description":"Thomas Cook Airlines Uk Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b3e"},"Code":"BRW","Description":"Barrow Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b3f"},"Code":"BTQ","Description":"Brasair Transportes Aereos"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b40"},"Code":"BUH","Description":"Business Helicopters"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b41"},"Code":"BUQ","Description":"Wrangler Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b42"},"Code":"BUQ (1)","Description":"Blue Bell Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b43"},"Code":"BJQ","Description":"Taxirey S.A. De C.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b44"},"Code":"BLQ","Description":"Air Bvi Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b45"},"Code":"BM","Description":"Belize Air Int'l Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b46"},"Code":"BUR","Description":"Burlington Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b47"},"Code":"BW","Description":"British West Indian Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b48"},"Code":"BXQ","Description":"Spantax S. A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b49"},"Code":"BY","Description":"Britannia Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b4a"},"Code":"BYA","Description":"Bay Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b4b"},"Code":"C8","Description":"Chicago Express Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b4c"},"Code":"CA","Description":"Air China"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b4d"},"Code":"CAC","Description":"Coleman Air Transport"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b4e"},"Code":"CAF","Description":"California Seaboard"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b4f"},"Code":"CAI","Description":"Crawford Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b50"},"Code":"CAM","Description":"C \u0026 M Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b51"},"Code":"CAP","Description":"Metro Air Northeast N Y"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b52"},"Code":"CAQ","Description":"Challenge Air Luftverkehrs GmbH"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b53"},"Code":"CAT","Description":"Catalina Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b54"},"Code":"CAV","Description":"Air Virginia"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b55"},"Code":"CAZ","Description":"CAT Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b56"},"Code":"CB","Description":"Air One Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b57"},"Code":"CBA","Description":"Carriba Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b58"},"Code":"CBQ","Description":"Copper River Air Taxi"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b59"},"Code":"CC","Description":"Air Atlanta Icelandic"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b5a"},"Code":"CC (1)","Description":"Air Atlanta Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b5b"},"Code":"CCA","Description":"Cityhop"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b5c"},"Code":"CCO","Description":"Chester County Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b5d"},"Code":"BZQ","Description":"Abaco Air, Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b5e"},"Code":"C5","Description":"Commutair Aka Champlain Enterprises, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b5f"},"Code":"C6","Description":"Canjet Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b60"},"Code":"CDQ","Description":"Kitty Hawk International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b61"},"Code":"CEN","Description":"Cen-Tex Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b62"},"Code":"CEQ","Description":"All Canada Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b63"},"Code":"CET","Description":"Century Airlines (Cal)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b64"},"Code":"CF","Description":"Compan. De Aviacion Faucett"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b65"},"Code":"CH","Description":"Bemidji Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b66"},"Code":"CHD","Description":"Chandler Flyer"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b67"},"Code":"CHE","Description":"Charter Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b68"},"Code":"CHF","Description":"Hammonds Commuter Air Serv."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b69"},"Code":"CHI","Description":"Chitina Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b6a"},"Code":"CHL","Description":"Channel Flying Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b6b"},"Code":"CHO","Description":"Choi Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b6c"},"Code":"CHS","Description":"Christman Air System"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b6d"},"Code":"CHT","Description":"Charter One"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b6e"},"Code":"CI","Description":"China Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b6f"},"Code":"CIQ","Description":"A/S Conair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b70"},"Code":"CIS","Description":"Cal Sierra Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b71"},"Code":"CJ","Description":"Colgan Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b72"},"Code":"CK","Description":"China Cargo Airline"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b73"},"Code":"CKI","Description":"Inlet Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b74"},"Code":"CL","Description":"Capitol International Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b75"},"Code":"CLB","Description":"Columbia Pacific Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b76"},"Code":"CLD","Description":"Hawaii Pacific Helicopters"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b77"},"Code":"CGA","Description":"Chicago Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b78"},"Code":"CGL","Description":"Viking Int'l Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b79"},"Code":"CGO","Description":"Chicago Air Taxi"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b7a"},"Code":"CLF","Description":"California Air Shuttle"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b7b"},"Code":"CLQ","Description":"Aero Transcolombiana"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b7c"},"Code":"CM","Description":"Compania Panamena (Copa)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b7d"},"Code":"CMB","Description":"Combs Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b7e"},"Code":"CMD","Description":"Command Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b7f"},"Code":"CO","Description":"Continental Air Lines Inc.","depDelay":[{"time":3472572,"year":1996},{"time":3111134,"year":1997}],"arrDelay":[{"time":3815253,"year":1996},{"time":3161727,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b80"},"Code":"COB","Description":"Cotton Belt Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b81"},"Code":"COC","Description":"Cochise Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b82"},"Code":"COK","Description":"Coker Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b83"},"Code":"COL","Description":"Presidential Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b84"},"Code":"COM","Description":"Commutair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b85"},"Code":"COR","Description":"Coral Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b86"},"Code":"COS","Description":"Cosmopolitan Comm. Airline"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b87"},"Code":"COT","Description":"Southeastern Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b88"},"Code":"COU","Description":"Courtesy Air Service Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b89"},"Code":"CP","Description":"Compass Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b8a"},"Code":"CP (1)","Description":"Canadian Airlines Int'l Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b8b"},"Code":"CPA","Description":"Capitol Air Lines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b8c"},"Code":"CPC","Description":"Coastal Plains Commuter Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b8d"},"Code":"CPQ","Description":"Capitol Air Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b8e"},"Code":"CPT","Description":"Capitol Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b8f"},"Code":"CQI","Description":"Conquest Airline Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b90"},"Code":"CRA","Description":"Commuter Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b91"},"Code":"CMQ","Description":"Servicio De Carga Aerea Sa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b92"},"Code":"CMR","Description":"Commuter Airlines (Ca)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b93"},"Code":"CNN","Description":"Centennial Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b94"},"Code":"CRB","Description":"Caribair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b95"},"Code":"CRE","Description":"Caribbean Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b96"},"Code":"CRH","Description":"Cresent Medivac"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b97"},"Code":"CRN","Description":"Crown Aviaiton Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b98"},"Code":"CRO","Description":"Crown Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b99"},"Code":"CSA","Description":"Casino Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b9a"},"Code":"CSK","Description":"Catskill Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b9b"},"Code":"CSL","Description":"Central States Air Lines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b9c"},"Code":"CSM","Description":"Chisum Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b9d"},"Code":"CSN","Description":"Casino Airlines (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b9e"},"Code":"CSQ","Description":"Celtic Tech Jet Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73b9f"},"Code":"CTA","Description":"Century Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba0"},"Code":"CTH","Description":"Cothron Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba1"},"Code":"CTL","Description":"Coastal Air Transport"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba2"},"Code":"CTQ","Description":"Custom Air Transport"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba3"},"Code":"CTR","Description":"Chartair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba4"},"Code":"CUQ","Description":"Caicos Caribbean Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba5"},"Code":"CUS","Description":"Custom Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba6"},"Code":"CV","Description":"Cargolux Airlines Int'l S.A"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba7"},"Code":"CVA","Description":"Catalina-Vegas Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba8"},"Code":"CVQ","Description":"Caraven S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ba9"},"Code":"CW","Description":"Air Marshall Islands Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73baa"},"Code":"CWQ","Description":"Canadian Aviation Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bab"},"Code":"CRP","Description":"Corporate Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bac"},"Code":"CRT","Description":"Crested Butte Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bad"},"Code":"CS","Description":"Continental Micronesia"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bae"},"Code":"CX","Description":"Cathay Pacific Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73baf"},"Code":"CYQ","Description":"Corse Air International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb0"},"Code":"CZ","Description":"China Southern Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb1"},"Code":"CZ (1)","Description":"Cascade Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb2"},"Code":"CZQ","Description":"Aviation Concepts"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb3"},"Code":"DC","Description":"Caribbean Air Cargo Co Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb4"},"Code":"DE","Description":"Condor Flugdienst"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb5"},"Code":"DEA","Description":"Downeast Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb6"},"Code":"DEC","Description":"Decatur Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb7"},"Code":"DFS","Description":"Downeast Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb8"},"Code":"DH","Description":"Independence Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bb9"},"Code":"DH (1)","Description":"Discovery Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bba"},"Code":"DHL","Description":"DHL Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bbb"},"Code":"DHQ","Description":"DHL Aero Expresso"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bbc"},"Code":"DIA","Description":"Drummond Island Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bbd"},"Code":"DIC","Description":"Dickman Aviation Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bbe"},"Code":"DIR","Description":"Northern Star"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bbf"},"Code":"DL","Description":"Delta Air Lines Inc.","depDelay":[{"time":9130025,"year":1996},{"time":7942948,"year":1997}],"arrDelay":[{"time":10005152,"year":1996},{"time":8630016,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc0"},"Code":"DM","Description":"Maersk Air I/S"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc1"},"Code":"DO","Description":"Compania Dominicana De Avia"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc2"},"Code":"DOL","Description":"Dolphin Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc3"},"Code":"DOQ","Description":"Aerolineas Dominicanas S A"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc4"},"Code":"DPA","Description":"Desert Pacific Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc5"},"Code":"DA","Description":"Dan Air Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc6"},"Code":"DAN","Description":"Danbury Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc7"},"Code":"DAU","Description":"Dauphin Island Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc8"},"Code":"DPI","Description":"Desert Pacific Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bc9"},"Code":"DQQ","Description":"Caribwest Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bca"},"Code":"DSA","Description":"Desert Sun Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bcb"},"Code":"DST","Description":"Desert Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bcc"},"Code":"DUL","Description":"Dulles Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bcd"},"Code":"DXA","Description":"Dolphin Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bce"},"Code":"E0","Description":"Eos Airlines, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bcf"},"Code":"E7","Description":"Estafeta Carga Aereas"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd0"},"Code":"E72","Description":"European Aviation Air Charter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd1"},"Code":"E8","Description":"USAfrica Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd2"},"Code":"E9","Description":"Boston-Maine Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd3"},"Code":"EA","Description":"Eastern Air Lines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd4"},"Code":"EAI","Description":"Executive Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd5"},"Code":"EAQ","Description":"Executive Airlines, SL"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd6"},"Code":"EAS","Description":"Eastern Caribbean Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd7"},"Code":"EAT","Description":"Eastman Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd8"},"Code":"EBQ","Description":"Execaire Aviation Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bd9"},"Code":"ECA","Description":"Eagle Airlines (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bda"},"Code":"ECI","Description":"Eastern Carolina Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bdb"},"Code":"ECL","Description":"Eclipse Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bdc"},"Code":"ECQ","Description":"Trans American Charter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bdd"},"Code":"ECR","Description":"East Coast Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bde"},"Code":"ED","Description":"Andes"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bdf"},"Code":"DUZ","Description":"Summit Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be0"},"Code":"DVO","Description":"Devoe Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be1"},"Code":"DWN","Description":"Dawn Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be2"},"Code":"EDE","Description":"Ede Aire"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be3"},"Code":"EET","Description":"Exec Express II"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be4"},"Code":"EEX","Description":"Exec Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be5"},"Code":"EEZ","Description":"Eagle Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be6"},"Code":"EFA","Description":"Executive Four Winds"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be7"},"Code":"EGL","Description":"Eagle Commuter Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be8"},"Code":"EH","Description":"Saeta Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73be9"},"Code":"EHA","Description":"East Hampton Aire Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bea"},"Code":"EI","Description":"Aer Lingus Plc"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73beb"},"Code":"EIA","Description":"East. Indiana Aviation Sale"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bec"},"Code":"EJQ","Description":"Aeroejecutivos C.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bed"},"Code":"EK","Description":"Emirates"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bee"},"Code":"EKA","Description":"Air Pacific Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bef"},"Code":"ELL","Description":"Ellis Air Taxi Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf0"},"Code":"EM","Description":"Empire Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf1"},"Code":"EMA","Description":"Emerald Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf2"},"Code":"EME","Description":"Metro Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf3"},"Code":"EMP","Description":"Empire Airlines Inc. (2)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf4"},"Code":"ENT","Description":"Enterprise Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf5"},"Code":"EOQ","Description":"Aeroservicios Ecuatorianos"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf6"},"Code":"EP","Description":"All Star Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf7"},"Code":"ER","Description":"Astar Air Cargo Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf8"},"Code":"ERI","Description":"Erie Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bf9"},"Code":"EFQ","Description":"Trans Europ. Airways France"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bfa"},"Code":"EGA","Description":"Eagle Airline"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bfb"},"Code":"EGJ","Description":"Eagle Jet Charter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bfc"},"Code":"ERO","Description":"Empire Aero Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bfd"},"Code":"ERQ","Description":"Aero Trades (Western) Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bfe"},"Code":"ESQ","Description":"Seagreen Air Transport"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73bff"},"Code":"ET","Description":"Ethiopian Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c00"},"Code":"EU","Description":"Ecuatoriana De Aviacion"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c01"},"Code":"EWA","Description":"Rio Grande Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c02"},"Code":"EXA","Description":"Columbia Pacific Airlines (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c03"},"Code":"EXC","Description":"Executive Charter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c04"},"Code":"EXP","Description":"Express Airlines II"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c05"},"Code":"EXQ","Description":"Export Air Del Peru S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c06"},"Code":"EXR","Description":"Executive Transport"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c07"},"Code":"EY","Description":"Etihad Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c08"},"Code":"EZ","Description":"Evergreen Int'l Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c09"},"Code":"F2","Description":"Omega Air Holdings d/b/a Focus Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c0a"},"Code":"F8","Description":"Freedom Airlines d/b/a HP Expr"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c0b"},"Code":"F9","Description":"Frontier Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c0c"},"Code":"FAA","Description":"Falwell Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c0d"},"Code":"FAC","Description":"Falcon Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c0e"},"Code":"FAQ","Description":"Fast Air Carrier Ltd. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c0f"},"Code":"FAR","Description":"Federal Armored Service Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c10"},"Code":"FB","Description":"Translift Airways Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c11"},"Code":"FBI","Description":"Young Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c12"},"Code":"FCA","Description":"Southern Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c13"},"Code":"EUQ","Description":"Air Atlanta Europe"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c14"},"Code":"EV","Description":"Atlantic Southeast Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c15"},"Code":"EVA","Description":"Evanston Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c16"},"Code":"FCQ","Description":"Falcon Air Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c17"},"Code":"FD","Description":"Air Puerto Rico Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c18"},"Code":"FDA","Description":"Florida Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c19"},"Code":"FDM","Description":"Freedom Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c1a"},"Code":"FDQ","Description":"Great American Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c1b"},"Code":"FH","Description":"Frontier Horizon Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c1c"},"Code":"FI","Description":"Icelandair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c1d"},"Code":"FJ","Description":"Air Pacific Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c1e"},"Code":"FJ (1)","Description":"Air Pacific Ltd. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c1f"},"Code":"FL","Description":"AirTran Airways Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c20"},"Code":"FL (1)","Description":"Frontier Airlines Inc. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c21"},"Code":"FLA","Description":"Florida Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c22"},"Code":"FLM","Description":"Flamenco Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c23"},"Code":"FLR","Description":"Flirite Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c24"},"Code":"FNQ","Description":"Fine Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c25"},"Code":"FOR","Description":"Ford-Aire Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c26"},"Code":"FOS","Description":"Foster Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c27"},"Code":"FQ","Description":"Air Aruba"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c28"},"Code":"FRA","Description":"Freedom Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c29"},"Code":"FRS","Description":"Four Star Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c2a"},"Code":"FRT","Description":"Frontier Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c2b"},"Code":"FRW","Description":"Farwest Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c2c"},"Code":"FS","Description":"Serv De Trans Aereos Fuegui"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c2d"},"Code":"FE","Description":"Primaris Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c2e"},"Code":"FF","Description":"Tower Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c2f"},"Code":"FFQ","Description":"Five Star Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c30"},"Code":"FSA","Description":"F.S. Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c31"},"Code":"FT","Description":"Flying Tiger Line Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c32"},"Code":"FTI","Description":"Southern Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c33"},"Code":"FVA","Description":"Skycraft Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c34"},"Code":"FW","Description":"Skybus Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c35"},"Code":"G3","Description":"Aerochago S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c36"},"Code":"G4","Description":"Allegiant Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c37"},"Code":"G7","Description":"GoJet Airlines, LLC d/b/a United Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c38"},"Code":"GA","Description":"P.T. Garuda Indonesian Arwy"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c39"},"Code":"GAL","Description":"Galena Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c3a"},"Code":"GAQ","Description":"Galaxy Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c3b"},"Code":"GAS","Description":"General Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c3c"},"Code":"GAT","Description":"Gulf Air Taxi"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c3d"},"Code":"GAV","Description":"Gromer Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c3e"},"Code":"GBA","Description":"Central States Airline"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c3f"},"Code":"GBQ","Description":"G5 Executive Ag"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c40"},"Code":"GCA","Description":"Golden Carriage Aire"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c41"},"Code":"GCH","Description":"Grand Canyon Helicopters"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c42"},"Code":"GCQ","Description":"General Air Cargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c43"},"Code":"GCS","Description":"Midway Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c44"},"Code":"GD","Description":"Transp. Aereos Ejecutivos"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c45"},"Code":"GDW","Description":"Golden West Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c46"},"Code":"GE","Description":"Lufthansa Cargo Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c47"},"Code":"FWA","Description":"Far West Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c48"},"Code":"FX","Description":"Federal Express Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c49"},"Code":"FYB","Description":"Flying Boat"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c4a"},"Code":"GF","Description":"Gulf Air Company"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c4b"},"Code":"GF (1)","Description":"Gulf Air Transport Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c4c"},"Code":"GFC","Description":"Gulf Flite Center"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c4d"},"Code":"GFQ","Description":"Gulf And Caribbean Cargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c4e"},"Code":"GG","Description":"Cargo 360, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c4f"},"Code":"GHA","Description":"Green Hills Aviation Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c50"},"Code":"GIQ","Description":"Global Int'l Airways Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c51"},"Code":"GJ","Description":"Eurofly S.p.A"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c52"},"Code":"GJ (1)","Description":"Mexicargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c53"},"Code":"GKQ","Description":"Laker Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c54"},"Code":"GL","Description":"Miami Air International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c55"},"Code":"GLW","Description":"Golden West Airlines Co."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c56"},"Code":"GM","Description":"Air America"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c57"},"Code":"GMA","Description":"Green Mountain Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c58"},"Code":"GOF","Description":"Copper State Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c59"},"Code":"GPA","Description":"GP Express Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c5a"},"Code":"GQ","Description":"Big Sky Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c5b"},"Code":"GR","Description":"Gemini Air Cargo Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c5c"},"Code":"GRA","Description":"Gorda Aero Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c5d"},"Code":"GRD","Description":"Grand Canyon Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c5e"},"Code":"GRO","Description":"Isle Royale Seaplane Serv."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c5f"},"Code":"GS","Description":"Air Foyle Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c60"},"Code":"GSA","Description":"Golden Gate Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c61"},"Code":"GG (1)","Description":"Tropical Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c62"},"Code":"GG (2)","Description":"Grenada Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c63"},"Code":"GH","Description":"Ghana Airways Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c64"},"Code":"GSC","Description":"GCS Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c65"},"Code":"GSL","Description":"Golden South Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c66"},"Code":"GSQ","Description":"Global Supply System"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c67"},"Code":"GST","Description":"Golden State Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c68"},"Code":"GU","Description":"Aviateca"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c69"},"Code":"GW","Description":"Central American Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c6a"},"Code":"GWA","Description":"Great Western Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c6b"},"Code":"GWE","Description":"Ross Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c6c"},"Code":"GX","Description":"Air Ontario Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c6d"},"Code":"GY","Description":"Guyana Airways Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c6e"},"Code":"H2","Description":"City Bird"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c6f"},"Code":"H5","Description":"Magadan Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c70"},"Code":"H6","Description":"Hageland Aviation Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c71"},"Code":"HA","Description":"Hawaiian Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c72"},"Code":"HAQ","Description":"Hapag Lloyd Flug."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c73"},"Code":"HAR","Description":"Friendship Air Alaska"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c74"},"Code":"HB","Description":"Homer Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c75"},"Code":"HB (1)","Description":"Air Club International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c76"},"Code":"HBQ","Description":"Harris Air Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c77"},"Code":"HCQ","Description":"Av Atlantic"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c78"},"Code":"HEL","Description":"Helitrans"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c79"},"Code":"HEP","Description":"Hub Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c7a"},"Code":"HER","Description":"Markair Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c7b"},"Code":"GUL","Description":"Gull Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c7c"},"Code":"GUN","Description":"Gunnel Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c7d"},"Code":"GV","Description":"Grant Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c7e"},"Code":"HET","Description":"Helitac Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c7f"},"Code":"HEU","Description":"Heussler Air Service Corp"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c80"},"Code":"HFQ","Description":"Haiti Air Freight Intl"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c81"},"Code":"HFS","Description":"Hensley Flying Service Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c82"},"Code":"HIQ","Description":"Business Flights Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c83"},"Code":"HMZ","Description":"Long Island Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c84"},"Code":"HNS","Description":"Haines Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c85"},"Code":"HOL","Description":"Holiday Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c86"},"Code":"HOQ","Description":"Holidair Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c87"},"Code":"HOR","Description":"Iowa Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c88"},"Code":"HP","Description":"America West Airlines Inc. (Merged with US Airways 9/05. Stopped reporting 10/07.)","depDelay":[{"time":2045833,"year":1996},{"time":1583525,"year":1997}],"arrDelay":[{"time":2573796,"year":1996},{"time":1887364,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c89"},"Code":"HPZ","Description":"Pacific Coast Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c8a"},"Code":"HQ","Description":"Harmony Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c8b"},"Code":"HQ (1)","Description":"Business Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c8c"},"Code":"HQQ","Description":"Harlequin Air Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c8d"},"Code":"HRA","Description":"Trans-National Airlines Haw"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c8e"},"Code":"HRG","Description":"Heritage Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c8f"},"Code":"HRQ","Description":"Tar Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c90"},"Code":"HRZ","Description":"Allegheny Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c91"},"Code":"HSV","Description":"Harbor Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c92"},"Code":"HSZ","Description":"Scenic Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c93"},"Code":"HU","Description":"Hainan Airlines Company Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c94"},"Code":"HUB","Description":"Skystream Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c95"},"Code":"HJ","Description":"Air Haiti S. A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c96"},"Code":"HK","Description":"Time Air Sweden Ab"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c97"},"Code":"HLQ","Description":"Heavylift Cargo Airlines Lt"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c98"},"Code":"HVQ","Description":"Transavia Holland B. V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c99"},"Code":"HWK","Description":"Hawking Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c9a"},"Code":"HX","Description":"Guy-America Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c9b"},"Code":"HY","Description":"Uzbekistan Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c9c"},"Code":"HYA","Description":"Hyannis Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c9d"},"Code":"ICH","Description":"Island Air Charters"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c9e"},"Code":"ICQ","Description":"Iscargo Hf"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73c9f"},"Code":"IDQ","Description":"Intl Air Service Co. Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca0"},"Code":"IEX","Description":"Island Air Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca1"},"Code":"IGA","Description":"Global Jet Austria, GmbH"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca2"},"Code":"III","Description":"Idee Industries Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca3"},"Code":"IKQ","Description":"Tradewinds Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca4"},"Code":"IMP","Description":"Imperial Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca5"},"Code":"IN","Description":"Aerlinte Eireann Teoranta"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca6"},"Code":"INA","Description":"Inland Empire Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca7"},"Code":"IND","Description":"Indiana Airways Inc. (Pa)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca8"},"Code":"INQ","Description":"Independent Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ca9"},"Code":"IOW","Description":"Iowa Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73caa"},"Code":"IPI","Description":"Indo-Pacific International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cab"},"Code":"IPQ","Description":"Aruba Cargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cac"},"Code":"IPS","Description":"Island Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cad"},"Code":"IR","Description":"Iran National Airlines Corp"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cae"},"Code":"IRQ","Description":"Interstate Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73caf"},"Code":"IA","Description":"Iraqi Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb0"},"Code":"IB","Description":"Iberia Air Lines Of Spain"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb1"},"Code":"ICF","Description":"Iowa City Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb2"},"Code":"IS","Description":"Island Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb3"},"Code":"ISL","Description":"Island Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb4"},"Code":"ITQ","Description":"Interamericana De Aviacion"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb5"},"Code":"IW","Description":"Air Liberte Aka Aom Minerve"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb6"},"Code":"IW (1)","Description":"Best Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb7"},"Code":"J7","Description":"Valujet Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb8"},"Code":"JAG","Description":"JetAlliance Flugbetriebs d/b/a JAF Airservice"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cb9"},"Code":"JAM","Description":"Sunbelt Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cba"},"Code":"JAQ","Description":"Jamaica Air Freighters"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cbb"},"Code":"JB","Description":"Helijet International Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cbc"},"Code":"JCM","Description":"Air Chico"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cbd"},"Code":"J5","Description":"Alaska Seaplane Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cbe"},"Code":"JCZ","Description":"Rocky Mountain Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cbf"},"Code":"JD","Description":"Japan Air System Co. Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc0"},"Code":"JER","Description":"Jer-Don Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc1"},"Code":"JF","Description":"L.A.B. Flying Service Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc2"},"Code":"JI","Description":"Jade Cargo International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc3"},"Code":"JI (1)","Description":"Midway Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc4"},"Code":"JIQ","Description":"Jet Fleet Intl. Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc5"},"Code":"JJ","Description":"Transportes Aeros Meridiona"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc6"},"Code":"JK","Description":"Spanair S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc7"},"Code":"JK (1)","Description":"Sunworld Int'l Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc8"},"Code":"JKQ","Description":"Express One Int'l Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cc9"},"Code":"IXQ","Description":"Inair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cca"},"Code":"J6","Description":"Larrys Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ccb"},"Code":"JL","Description":"Japan Air Lines Co. Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ccc"},"Code":"JCQ","Description":"Jet Connection Businessflight Ag"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ccd"},"Code":"JMA","Description":"Jim Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cce"},"Code":"JN","Description":"Excel Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ccf"},"Code":"JO","Description":"Jalways Co. Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd0"},"Code":"JM","Description":"Air Jamaica Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd1"},"Code":"JU","Description":"Yugoslav Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd2"},"Code":"JTA","Description":"Jetaire Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd3"},"Code":"JX","Description":"Southeast Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd4"},"Code":"JX (1)","Description":"Jes Air Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd5"},"Code":"JXQ","Description":"Allarco Developments Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd6"},"Code":"JZ","Description":"Japan Air Charter Co. Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd7"},"Code":"JR","Description":"Aero California"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd8"},"Code":"JW","Description":"Arrow Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cd9"},"Code":"K8","Description":"Dutch Caribbean Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cda"},"Code":"KA","Description":"Hong Kong Dragonair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cdb"},"Code":"KAH","Description":"Kenmore Air Harbor"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cdc"},"Code":"KAI","Description":"Knight Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cdd"},"Code":"KAQ","Description":"Kalitta Air LLC"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cde"},"Code":"KAT","Description":"Katmai Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cdf"},"Code":"KB","Description":"Haiti Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce0"},"Code":"KE","Description":"Korean Air Lines Co. Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce1"},"Code":"KEA","Description":"Keene Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce2"},"Code":"KEE","Description":"Key Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce3"},"Code":"KET","Description":"Ketchikan Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce4"},"Code":"KFS","Description":"King Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce5"},"Code":"KI","Description":"Time Air Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce6"},"Code":"KIN","Description":"Golden Pacific Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce7"},"Code":"KKQ","Description":"Transmeridian Air Cargo Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce8"},"Code":"KL","Description":"Klm Royal Dutch Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ce9"},"Code":"KLQ","Description":"Kalitta Charters II"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cea"},"Code":"KM","Description":"Air Malta"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ceb"},"Code":"K3","Description":"Venture Travel LLC d/b/a Taquan Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cec"},"Code":"K5","Description":"Wings Of Alaska"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ced"},"Code":"K7","Description":"Arizona Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cee"},"Code":"KN","Description":"Morris Air Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cef"},"Code":"KO","Description":"Alaska Central Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf0"},"Code":"KOD","Description":"Kodiak Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf1"},"Code":"KP","Description":"Kiwi International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf2"},"Code":"KR","Description":"Kitty Hawk Aircargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf3"},"Code":"KR (1)","Description":"Kar-Air Oy"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf4"},"Code":"KW","Description":"Carnival Air Lines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf5"},"Code":"KWQ","Description":"Kelowna Flightcraft Air Cha"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf6"},"Code":"KWZ","Description":"Crown Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf7"},"Code":"KX","Description":"Cayman Airways Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf8"},"Code":"KXZ","Description":"Chaparral Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cf9"},"Code":"KZ","Description":"Nippon Cargo Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cfa"},"Code":"L2","Description":"Lynden Air Cargo Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cfb"},"Code":"L4","Description":"Lynx Aviation d/b/a Frontier Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cfc"},"Code":"LA","Description":"Lan-Chile Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cfd"},"Code":"LAA","Description":"La Skycab Airline"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cfe"},"Code":"LAH","Description":"La Helicopter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73cff"},"Code":"LAN","Description":"Lancer Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d00"},"Code":"LAP","Description":"Lapsa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d01"},"Code":"LAR","Description":"Laredo Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d02"},"Code":"LAS","Description":"Lake Union Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d03"},"Code":"LAW","Description":"Lawrence Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d04"},"Code":"KU","Description":"Kuwait Airways Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d05"},"Code":"KS","Description":"Peninsula Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d06"},"Code":"LB","Description":"Lloyd Aereo Boliviano S. A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d07"},"Code":"KTQ","Description":"Turks Air Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d08"},"Code":"LBQ","Description":"Millon Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d09"},"Code":"LC","Description":"Varig Logistica S/A"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d0a"},"Code":"LC (1)","Description":"Lineas Aereas Del Caribe"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d0b"},"Code":"LC (2)","Description":"Legend Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d0c"},"Code":"LCQ","Description":"Latcr"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d0d"},"Code":"LF","Description":"Jettrain Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d0e"},"Code":"LG","Description":"Luxair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d0f"},"Code":"LGQ","Description":"Lineas Aereas Allegro"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d10"},"Code":"LH","Description":"Lufthansa German Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d11"},"Code":"LHA","Description":"Havasu Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d12"},"Code":"LIQ","Description":"Liat (1974) Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d13"},"Code":"LKN","Description":"Loken Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d14"},"Code":"LLA","Description":"Lakeland Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d15"},"Code":"LNQ","Description":"Aerolineas Latinas"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d16"},"Code":"LO","Description":"Polskie Linie Lotnicze"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d17"},"Code":"LOQ","Description":"Lorair Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d18"},"Code":"LOS","Description":"Aero Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d19"},"Code":"LP","Description":"Lan Peru Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d1a"},"Code":"LP (1)","Description":"The Hawaii Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d1b"},"Code":"LR","Description":"Lacsa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d1c"},"Code":"LRQ","Description":"Air Liberte"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d1d"},"Code":"LSQ","Description":"Lineas Aereas Suramerican"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d1e"},"Code":"LSZ","Description":"Alaska Island Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d1f"},"Code":"LCT","Description":"Lake Coastal"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d20"},"Code":"LEQ","Description":"Le Point Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d21"},"Code":"LEX","Description":"L'Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d22"},"Code":"LT","Description":"Luftransport-Unternehmen"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d23"},"Code":"LU","Description":"Air Atlantic Dominicana"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d24"},"Code":"LUQ","Description":"Lineas Aereas La-Tur Sa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d25"},"Code":"LVA","Description":"Las Vegas Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d26"},"Code":"LW","Description":"Pacific Wings Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d27"},"Code":"LZ","Description":"Balkan Bulgarian Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d28"},"Code":"LZQ","Description":"Leisure Int'l Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d29"},"Code":"M3","Description":"ABSA-Aerolinhas Brasileiras"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d2a"},"Code":"M6","Description":"Amerijet International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d2b"},"Code":"M7","Description":"Aerotransportes Mas De Crga"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d2c"},"Code":"MA","Description":"Malev Hungarian Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d2d"},"Code":"MAA","Description":"Maui Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d2e"},"Code":"MAC","Description":"Mackey International Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d2f"},"Code":"MAE","Description":"Mid-Atlantic Exp. Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d30"},"Code":"MAG","Description":"Magum Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d31"},"Code":"MAI","Description":"The Maui Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d32"},"Code":"MAQ","Description":"Millardair Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d33"},"Code":"MAR","Description":"Marshall's Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d34"},"Code":"MAV","Description":"Maverick Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d35"},"Code":"MAX","Description":"Maxair Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d36"},"Code":"MB","Description":"Samoa Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d37"},"Code":"MC","Description":"Transtar Airlines Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d38"},"Code":"MCO","Description":"Mid Continental Airlines In"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d39"},"Code":"LX","Description":"Swiss International Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d3a"},"Code":"LXQ","Description":"Translux Intl Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d3b"},"Code":"LY","Description":"El Al Israel Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d3c"},"Code":"MDC","Description":"Midcontinent Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d3d"},"Code":"MDU","Description":"Metro Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d3e"},"Code":"ME","Description":"Middle East Airlines S.A.L."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d3f"},"Code":"MEA","Description":"Manhattan Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d40"},"Code":"MET","Description":"Metroplex Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d41"},"Code":"MH","Description":"Malaysian Airline System"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d42"},"Code":"MHK","Description":"Mohawk Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d43"},"Code":"MHO","Description":"Mahalo Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d44"},"Code":"MIN","Description":"Minuteman Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d45"},"Code":"MIS","Description":"Midstate Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d46"},"Code":"MIY","Description":"Midway Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d47"},"Code":"MJ","Description":"Lapa-Lineas Aereas Privadas"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d48"},"Code":"MKQ","Description":"Airmark Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d49"},"Code":"ML","Description":"Aero Costa Rica"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d4a"},"Code":"ML (1)","Description":"Midway Airlines Inc. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d4b"},"Code":"MLL","Description":"Miller Air Transportersinc"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d4c"},"Code":"MLX","Description":"Merlin Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d4d"},"Code":"MEX","Description":"Metro Express 11"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d4e"},"Code":"MM (1)","Description":"Sociedad Aeronautica De Med"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d4f"},"Code":"MMH","Description":"Ocean Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d50"},"Code":"MNA","Description":"M \u0026 N Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d51"},"Code":"MNZ","Description":"Cumberland Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d52"},"Code":"MOQ","Description":"Morningstar Air Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d53"},"Code":"MP","Description":"Martinair Holland N.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d54"},"Code":"MPA","Description":"Mid Pacific Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d55"},"Code":"MPC","Description":"Mid Pacific Air Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d56"},"Code":"MM","Description":"Euro Atlantic Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d57"},"Code":"MGQ","Description":"Montana Austria Flugetrieb"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d58"},"Code":"MRC","Description":"Marco Island Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d59"},"Code":"MRQ","Description":"National Air Cargo Group, Inc.d/b/a Murray Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d5a"},"Code":"MRR","Description":"Merrimack Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d5b"},"Code":"MS","Description":"Egyptair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d5c"},"Code":"MG","Description":"Champion Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d5d"},"Code":"MTA","Description":"Arkansas Traveler Airline"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d5e"},"Code":"MT","Description":"Flying Colours Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d5f"},"Code":"MTV","Description":"Mst Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d60"},"Code":"MTR","Description":"Metroflight Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d61"},"Code":"MTX","Description":"Mountain Air Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d62"},"Code":"MU","Description":"China Eastern Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d63"},"Code":"MQ","Description":"American Eagle Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d64"},"Code":"MST","Description":"Midwest Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d65"},"Code":"MUA","Description":"Manu'a Air Transport"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d66"},"Code":"MWA","Description":"Mountain West Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d67"},"Code":"MU (1)","Description":"Mcclain Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d68"},"Code":"MUQ","Description":"Aerolineas Mundo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d69"},"Code":"MY","Description":"MAXjet"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d6a"},"Code":"MVA","Description":"Mississippi Valley Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d6b"},"Code":"MX","Description":"Compania Mexicana De Aviaci"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d6c"},"Code":"MYQ","Description":"Lineas Aereas Mayas (Lamsa)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d6d"},"Code":"MZ","Description":"P.N. Merpati Nusantara Air."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d6e"},"Code":"N5","Description":"Skagway Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d6f"},"Code":"N5 (1)","Description":"Nations Air Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d70"},"Code":"N6","Description":"Aero Continente"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d71"},"Code":"N7","Description":"National Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d72"},"Code":"NAC","Description":"National Air Commuter Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d73"},"Code":"NAP","Description":"Npa Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d74"},"Code":"NAQ","Description":"Nationair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d75"},"Code":"NAS","Description":"Nasville Eagle"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d76"},"Code":"NA","Description":"North American Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d77"},"Code":"NC","Description":"Northern Air Cargo Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d78"},"Code":"NCA","Description":"National Commuter Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d79"},"Code":"NCE","Description":"Northcoast Executive"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d7a"},"Code":"ND","Description":"Intair dba Intair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d7b"},"Code":"NEB","Description":"New Born Wings Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d7c"},"Code":"NEC","Description":"Nor East Commuter Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d7d"},"Code":"NEQ","Description":"North East Cargo Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d7e"},"Code":"NER","Description":"Northeast Express Regional (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d7f"},"Code":"NET","Description":"Nacnet"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d80"},"Code":"NEV","Description":"Nevada Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d81"},"Code":"NEW","Description":"New England Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d82"},"Code":"NEX","Description":"Northeast Express Regional"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d83"},"Code":"NFA","Description":"National Florida Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d84"},"Code":"NFQ","Description":"North Cariboo Flying Serv."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d85"},"Code":"NG","Description":"Lauda Air Luftfahrt Ag"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d86"},"Code":"NGL","Description":"Northern Eagle Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d87"},"Code":"NH","Description":"All Nippon Airways Co."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d88"},"Code":"NHA","Description":"Newair Flight Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d89"},"Code":"NAT","Description":"National Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d8a"},"Code":"NB","Description":"Sterling Cargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d8b"},"Code":"NBQ","Description":"Sterling Airways A/S"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d8c"},"Code":"NI","Description":"Lanica"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d8d"},"Code":"NI (1)","Description":"American Int'l Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d8e"},"Code":"NJ","Description":"Vanguard Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d8f"},"Code":"NJA","Description":"N. J. Merrimack Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d90"},"Code":"NJE","Description":"NetJets Transportes Aereos, S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d91"},"Code":"NN","Description":"Northward Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d92"},"Code":"NOQ","Description":"Novair Airlines Ab"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d93"},"Code":"NPA","Description":"North Pacific Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d94"},"Code":"NPT","Description":"E. J. A. Newport Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d95"},"Code":"NQ","Description":"Air Japan Co"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d96"},"Code":"NRN","Description":"Northern Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d97"},"Code":"NSQ","Description":"North Coast Air Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d98"},"Code":"NTH","Description":"Northaire"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d99"},"Code":"NTQ","Description":"National Aviation Consult."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d9a"},"Code":"NUM","Description":"Lake State Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d9b"},"Code":"NUQ","Description":"Air Niugini"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d9c"},"Code":"NVQ","Description":"Novair Int'l Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d9d"},"Code":"NKQ","Description":"Norcanair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d9e"},"Code":"NVX","Description":"Nevis Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73d9f"},"Code":"NWQ","Description":"N. W. Territorial Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da0"},"Code":"NW","Description":"Northwest Airlines Inc.","depDelay":[{"time":4324202,"year":1996},{"time":4908255,"year":1997}],"arrDelay":[{"time":3732902,"year":1996},{"time":4541386,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da1"},"Code":"NWS","Description":"Northwest Seaplanes"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da2"},"Code":"NXQ","Description":"North Vancouver Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da3"},"Code":"NY","Description":"New York Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da4"},"Code":"NK","Description":"Spirit Air Lines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da5"},"Code":"NLQ","Description":"Nolinor Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da6"},"Code":"NYH","Description":"New York Helicopter Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da7"},"Code":"NZ","Description":"Air New Zealand"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da8"},"Code":"OA","Description":"Olympic Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73da9"},"Code":"OAK","Description":"Harbor Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73daa"},"Code":"OB","Description":"Oasis Int'l Airlines S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dab"},"Code":"OD (1)","Description":"Aerocondor"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dac"},"Code":"OE","Description":"Westair Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dad"},"Code":"OFF","Description":"Offshore Logistics"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dae"},"Code":"OH","Description":"Comair Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73daf"},"Code":"OHA","Description":"Omaha Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db0"},"Code":"OHZ","Description":"Caribbean Air Services Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db1"},"Code":"OI","Description":"Prestige Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db2"},"Code":"OIZ","Description":"Corporate Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db3"},"Code":"OK","Description":"Czech Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db4"},"Code":"OMH","Description":"Omniflight Helicopters"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db5"},"Code":"OMI","Description":"Omniflight Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db6"},"Code":"OMK","Description":"Omak Aviation Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db7"},"Code":"OMN","Description":"Omni Pacific Airline"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db8"},"Code":"OMQ","Description":"Quassar De Mexico"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73db9"},"Code":"ON","Description":"Air Nauru"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dba"},"Code":"ONQ","Description":"Nunasi-Central Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dbb"},"Code":"OO","Description":"Skywest Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dbc"},"Code":"OOZ","Description":"Sun Aire Lines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dbd"},"Code":"OC","Description":"Air California Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dbe"},"Code":"OCR","Description":"Ocean Reef Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dbf"},"Code":"OD","Description":"Emerald Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc0"},"Code":"OP (1)","Description":"Air Panama Internacional"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc1"},"Code":"OPQ","Description":"Orion Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc2"},"Code":"OR","Description":"TUI Airlines Nederland B.V."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc3"},"Code":"OP","Description":"Flying Boat Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc4"},"Code":"ORI","Description":"Orion Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc5"},"Code":"OV","Description":"Aeromaritime"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc6"},"Code":"OW","Description":"Executive Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc7"},"Code":"OWQ","Description":"Ontario Worldair Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc8"},"Code":"OTT","Description":"Otter Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dc9"},"Code":"OWS","Description":"Air Kentucky Air Lines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dca"},"Code":"OZ (1)","Description":"Ozark Air Lines Inc. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dcb"},"Code":"OZA","Description":"Ozark Air Lines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dcc"},"Code":"P9","Description":"Pro Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dcd"},"Code":"OZ","Description":"Asiana Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dce"},"Code":"PA (1)","Description":"Pan American World Airways (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dcf"},"Code":"PA (2)","Description":"Pan American World Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd0"},"Code":"PAI","Description":"Permian Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd1"},"Code":"PAQ","Description":"Patriot Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd2"},"Code":"PAT","Description":"Panorama Air Tours"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd3"},"Code":"PBA","Description":"Provincetown Boston"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd4"},"Code":"PBQ","Description":"Privatair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd5"},"Code":"PCA","Description":"Piasa Commuter Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd6"},"Code":"PCL","Description":"Pacific Cal Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd7"},"Code":"PCQ","Description":"Pace Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd8"},"Code":"OS","Description":"Austrian Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dd9"},"Code":"PA","Description":"Florida Coastal Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dda"},"Code":"PCR","Description":"Pacair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ddb"},"Code":"PD","Description":"Porter Airlines, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ddc"},"Code":"PD (1)","Description":"Pem-Air Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ddd"},"Code":"PDA","Description":"Trans Southern Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dde"},"Code":"PDQ","Description":"Antigua Paradise Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ddf"},"Code":"PE","Description":"Air Europe S.P.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de0"},"Code":"PE (1)","Description":"People Express Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de1"},"Code":"PEA","Description":"Pearson Aircraft"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de2"},"Code":"PEQ","Description":"Prince Edward Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de3"},"Code":"PER","Description":"Air Pennsylvania"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de4"},"Code":"PET","Description":"Petro Aviation Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de5"},"Code":"PH","Description":"Polynesian Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de6"},"Code":"PHL","Description":"Phillips Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de7"},"Code":"PHR","Description":"Pinehurst Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de8"},"Code":"PHX","Description":"Phoenix Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73de9"},"Code":"PI","Description":"Piedmont Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dea"},"Code":"PIA","Description":"Pacific Island Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73deb"},"Code":"PIQ","Description":"Pacific Int'l Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dec"},"Code":"PK","Description":"Pakistan Int'l Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ded"},"Code":"PKQ","Description":"Skyworld Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dee"},"Code":"PL","Description":"Aero Peru"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73def"},"Code":"PLA","Description":"Planes Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df0"},"Code":"PLQ","Description":"Planet Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df2"},"Code":"PLZ","Description":"Polar Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df3"},"Code":"PMA","Description":"Pacific Missionary Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df4"},"Code":"PMT","Description":"Pilgrim Aviation \u0026 Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df5"},"Code":"PN","Description":"Pan American Airways Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df6"},"Code":"PNM","Description":"Panama Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df7"},"Code":"PNQ","Description":"Panagra Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df8"},"Code":"PNR","Description":"Pioneer Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73df9"},"Code":"PNS","Description":"Pine State Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dfa"},"Code":"PO","Description":"Polar Air Cargo Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dfb"},"Code":"POA","Description":"Potomac Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dfc"},"Code":"POC","Description":"Pocono Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dfd"},"Code":"POL","Description":"Polar International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dfe"},"Code":"POM","Description":"Pompano Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73dff"},"Code":"PON","Description":"Ponderosa Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e00"},"Code":"POQ","Description":"Polyot Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e01"},"Code":"PPQ","Description":"Propair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e02"},"Code":"PR","Description":"Philippine Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e03"},"Code":"PRA","Description":"Princeton Aviation Corp"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e04"},"Code":"PFA","Description":"Pacificair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e05"},"Code":"PFQ","Description":"Asia Pacific"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e06"},"Code":"PRD","Description":"Paradise Island Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e07"},"Code":"PRM","Description":"Prime Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e08"},"Code":"PRN","Description":"Puerto Rico Intl Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e09"},"Code":"PRO","Description":"Sundance Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e0a"},"Code":"PRP","Description":"Propheter Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e0b"},"Code":"PRQ","Description":"Florida West Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e0c"},"Code":"PT","Description":"Capital Cargo International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e0d"},"Code":"PTQ","Description":"Flight International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e0e"},"Code":"PU","Description":"Primeras Lineas Uruguays For International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e0f"},"Code":"PUQ","Description":"Aeropuma"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e10"},"Code":"PV","Description":"Eastern Provincial Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e11"},"Code":"PVA","Description":"Precision Valley Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e12"},"Code":"PW","Description":"Pacific Western Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e13"},"Code":"PY","Description":"Surinam Airways Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e14"},"Code":"PZ","Description":"Lineas Aereas Paraguayas"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e15"},"Code":"Q2","Description":"Zambia Airways Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e16"},"Code":"Q4","Description":"Master Top Linhas Aereas, Ltda."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e17"},"Code":"Q5","Description":"40-Mile Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e18"},"Code":"Q7","Description":"Sobelair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e19"},"Code":"QB","Description":"Inter-Quebec (Intair)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e1a"},"Code":"QD","Description":"Grand Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e1b"},"Code":"QF","Description":"Qantas Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e1c"},"Code":"QG","Description":"Sky West Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e1d"},"Code":"QH","Description":"Air Florida Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e1e"},"Code":"PRR","Description":"Pro Air Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e1f"},"Code":"PS","Description":"Pacific Southwest Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e20"},"Code":"PSA","Description":"P.S. Air Freight Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e21"},"Code":"QK","Description":"Air Canada Regional"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e22"},"Code":"QN","Description":"Royal Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e23"},"Code":"QO","Description":"Aeromexpress"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e24"},"Code":"QOZ","Description":"Bar Harbor Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e25"},"Code":"QQ","Description":"Reno Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e26"},"Code":"QT","Description":"Transportes Aereos Mercantiles Panamericanos S.A"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e27"},"Code":"QTQ","Description":"Aer Turas Teoranta"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e28"},"Code":"QWE","Description":"Qwest Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e29"},"Code":"QX","Description":"Horizon Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e2a"},"Code":"RAL","Description":"Royal-Air Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e2b"},"Code":"RAN","Description":"Pan Am Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e2c"},"Code":"RAQ","Description":"Arista Int'l Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e2d"},"Code":"RAY","Description":"Royale Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e2e"},"Code":"RB","Description":"Syrian Arab Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e2f"},"Code":"RC","Description":"Republic Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e30"},"Code":"RCA","Description":"Mid-South Aviation Inc. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e31"},"Code":"RD","Description":"Ryan International Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e32"},"Code":"RD (1)","Description":"Airlift International Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e33"},"Code":"QS","Description":"Northeastern Int'l Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e34"},"Code":"QR","Description":"Qatar Airways (Q.C.S.C)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e35"},"Code":"RDR","Description":"Rader Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e36"},"Code":"RDW","Description":"Redwing Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e37"},"Code":"REA","Description":"Realwest Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e38"},"Code":"RED","Description":"Aerosun Int'l Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e39"},"Code":"REQ","Description":"Renown Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e3a"},"Code":"RGQ","Description":"Regency Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e3b"},"Code":"RHA","Description":"Royal Hawaiian Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e3c"},"Code":"RIA","Description":"Trump Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e3d"},"Code":"RIC","Description":"Richardson Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e3e"},"Code":"RID","Description":"Indiana Airways Inc. (Reid"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e3f"},"Code":"RIO","Description":"Rio Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e40"},"Code":"RIQ","Description":"Rich International Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e41"},"Code":"RIV","Description":"Riverside Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e42"},"Code":"RJ","Description":"Alia-(The) Royal Jordanian"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e43"},"Code":"RJS","Description":"Michigan Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e44"},"Code":"RK","Description":"Air Afrique"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e45"},"Code":"RL","Description":"UltrAir"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e46"},"Code":"RL (1)","Description":"Aerolineas Nicaraguenses"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e47"},"Code":"RLQ","Description":"Reliant Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e48"},"Code":"RMH","Description":"Rocky Mountain Helicopters"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e49"},"Code":"RMV","Description":"Ram Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e4a"},"Code":"RNQ","Description":"Mytravel Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e4b"},"Code":"RO","Description":"Tarom Romanian Air Transpor"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e4c"},"Code":"RES","Description":"Resort Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e4d"},"Code":"RG","Description":"Varig S. A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e4e"},"Code":"ROA","Description":"Royal West Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e4f"},"Code":"ROE","Description":"Roederer Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e50"},"Code":"ROQ","Description":"Aero Uruguay (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e51"},"Code":"ROS","Description":"Great Western Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e52"},"Code":"ROY","Description":"Royal American Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e53"},"Code":"RP","Description":"Chautauqua Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e54"},"Code":"RRT","Description":"Air Freight Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e55"},"Code":"RSC","Description":"Resort Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e56"},"Code":"RSQ","Description":"Aerotransportes Entre Rios"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e57"},"Code":"RSV","Description":"Air-Serve"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e58"},"Code":"RTQ","Description":"Aerotour Dominicano Cxa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e59"},"Code":"RVA","Description":"Reeves Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e5a"},"Code":"RW","Description":"Republic Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e5b"},"Code":"RWG","Description":"Air Rovers Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e5c"},"Code":"RY","Description":"Redcoat Air Cargo Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e5d"},"Code":"RZZ","Description":"Aeromech Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e5e"},"Code":"S3","Description":"Santa Barbara Airlines, C.A"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e5f"},"Code":"S4","Description":"Sata Internacional"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e60"},"Code":"S5","Description":"Shuttle America Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e61"},"Code":"S6","Description":"Star Air A/S"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e62"},"Code":"S6 (1)","Description":"Mountain Bird/Salmon Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e63"},"Code":"SA","Description":"South African Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e64"},"Code":"SAC","Description":"Sundorph Aeronautical Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e65"},"Code":"SAH","Description":"Sea Air Shuttle"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e66"},"Code":"SAI","Description":"Seair Alaska Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e67"},"Code":"SAJ","Description":"Sajen Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e68"},"Code":"SAL","Description":"Sallee's Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e69"},"Code":"SAM","Description":"Samoan Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e6a"},"Code":"SAQ","Description":"Southern Air Transport Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e6b"},"Code":"SAS","Description":"Air Cortez International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e6c"},"Code":"SAX","Description":"Air Americana"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e6d"},"Code":"SBA","Description":"Saber Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e6e"},"Code":"SBN","Description":"Suburban Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e6f"},"Code":"SBQ","Description":"Skyjet S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e70"},"Code":"RV","Description":"Reeve Aleutian Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e71"},"Code":"SCO","Description":"Seaco Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e72"},"Code":"SCN","Description":"Scott Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e73"},"Code":"SCT","Description":"Skyline Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e74"},"Code":"SCY","Description":"South Coast Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e75"},"Code":"SDQ","Description":"St. Lucia Airways Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e76"},"Code":"SE","Description":"Das Air Cargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e77"},"Code":"SEB","Description":"Seaborne Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e78"},"Code":"SEQ","Description":"Sky Service F.B.O."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e79"},"Code":"SER","Description":"Service Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e7a"},"Code":"SFI","Description":"Stahmannfarms Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e7b"},"Code":"SFO","Description":"Sfo Helicopter Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e7c"},"Code":"SFQ","Description":"Pacific Int'l Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e7d"},"Code":"SFQ (1)","Description":"Southern Frontier Air Trans"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e7e"},"Code":"SFS","Description":"Sierra Flite Service Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e7f"},"Code":"SG","Description":"Jetsgo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e80"},"Code":"SH","Description":"Servicio Aereo De Honduras"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e81"},"Code":"SHS","Description":"Shasta Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e82"},"Code":"SHV","Description":"Shavano Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e83"},"Code":"SI","Description":"Sierra Pacific Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e84"},"Code":"SEM","Description":"Semo Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e85"},"Code":"SEG","Description":"Seagull Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e86"},"Code":"SIQ","Description":"Premiair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e87"},"Code":"SIQ (1)","Description":"Scanair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e88"},"Code":"SJA","Description":"San Juan Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e89"},"Code":"SJQ","Description":"Skycharter (Malton) Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e8a"},"Code":"SIA","Description":"Silver State Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e8b"},"Code":"SI (1)","Description":"Jet America Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e8c"},"Code":"SEP","Description":"Southern Express Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e8d"},"Code":"SK","Description":"Scandinavian Airlines Sys."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e8e"},"Code":"SKI","Description":"Sunbird Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e8f"},"Code":"SKJ","Description":"Sky-Jet"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e90"},"Code":"SKL","Description":"Bas Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e91"},"Code":"SKM","Description":"Scheduled Skyways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e92"},"Code":"SKS","Description":"Silver Kris Services Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e93"},"Code":"SKT","Description":"Skytrain"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e94"},"Code":"SLO","Description":"Slocum Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e95"},"Code":"SLQ","Description":"Sky King Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e96"},"Code":"SLR","Description":"Salair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e97"},"Code":"SLZ","Description":"Southeast Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e98"},"Code":"SM","Description":"Sunworld Int'l Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e99"},"Code":"SMC","Description":"Stopher Mechanical Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e9a"},"Code":"SMO","Description":"Samoa Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e9b"},"Code":"SMQ","Description":"Serv. Aerolineas Mexicanas"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e9c"},"Code":"SN","Description":"Sabena Belgian World Air."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e9d"},"Code":"SNA","Description":"Aviation Associates"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e9e"},"Code":"SNB","Description":"Ccair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73e9f"},"Code":"SNC","Description":"Gelco Courier Services Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea0"},"Code":"SNE","Description":"Shawnee Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea1"},"Code":"SNK","Description":"Spernak Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea2"},"Code":"SNV","Description":"Sierra Nevada Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea3"},"Code":"SO","Description":"Swiss World Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea4"},"Code":"SOA","Description":"Mall Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea5"},"Code":"SOE","Description":"Sky One Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea6"},"Code":"SOL","Description":"Soonair Lines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea7"},"Code":"SOP","Description":"South Pacific Island Airway"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea8"},"Code":"SPF","Description":"Springfield Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ea9"},"Code":"SPG","Description":"Springdale Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eaa"},"Code":"SPH","Description":"Spirit Helicopter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eab"},"Code":"SPQ","Description":"Sun Pacific International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eac"},"Code":"SPR","Description":"Sportsman Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ead"},"Code":"SQ","Description":"Singapore Airlines Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eae"},"Code":"SR","Description":"Swissair Transport Co. Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eaf"},"Code":"SRA","Description":"Star Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb0"},"Code":"SRL","Description":"Sterling Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb1"},"Code":"SSA","Description":"S. S. Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb2"},"Code":"SSP","Description":"Southern Seaplane"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb3"},"Code":"SSQ","Description":"Superior Airways Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb4"},"Code":"ST","Description":"Belize Airways Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb5"},"Code":"STF","Description":"Trans East International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb6"},"Code":"STG","Description":"Sedalia Marshall Boonvl Stg"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb7"},"Code":"STQ","Description":"Skycraft Air Transport Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb8"},"Code":"STR","Description":"Star Aviation Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eb9"},"Code":"STA","Description":"State Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eba"},"Code":"SSS","Description":"Sierra Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ebb"},"Code":"SST","Description":"Seaplane Shuttle Transport"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ebc"},"Code":"STW","Description":"Stateswest Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ebd"},"Code":"SUI","Description":"Sun International Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ebe"},"Code":"SUT","Description":"Sunbelt"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ebf"},"Code":"SUX","Description":"Sunair Express LLC"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec0"},"Code":"SV","Description":"Saudi Arabian Airlines Corp"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec1"},"Code":"SVL","Description":"Sun Valley Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec2"},"Code":"SVW","Description":"Global Jet Luxembourg, Sa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec3"},"Code":"SWA","Description":"Sunwest Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec4"},"Code":"SWT","Description":"Swift Aire Lines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec5"},"Code":"SX","Description":"Skybus Airlines, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec6"},"Code":"SX (1)","Description":"Aeroejecutivo S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec7"},"Code":"SXP","Description":"Sierra Expressway"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec8"},"Code":"SY","Description":"Sun Country Airlines d/b/a Mn Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ec9"},"Code":"SYB","Description":"Skybus Express Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eca"},"Code":"SYM","Description":"Skymaster"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ecb"},"Code":"SZQ","Description":"Aerolineas El Salvador S A"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ecc"},"Code":"T3","Description":"Tristar Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ecd"},"Code":"T9","Description":"Transmeridian Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ece"},"Code":"TA","Description":"Taca Int'l Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ecf"},"Code":"STZ","Description":"Air America Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed0"},"Code":"SU","Description":"Aeroflot Russian Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed1"},"Code":"SUA","Description":"Sunshine Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed2"},"Code":"TAC","Description":"Air Colorado"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed3"},"Code":"TAF","Description":"Tri Air Freight"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed4"},"Code":"TAL","Description":"Tejas Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed5"},"Code":"TAQ","Description":"Taquan Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed6"},"Code":"TAS","Description":"Yosemite Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed7"},"Code":"TCA","Description":"Trans Catalina Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed8"},"Code":"TCE","Description":"Oceanair Line"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ed9"},"Code":"TCI","Description":"Trans California Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eda"},"Code":"TCL","Description":"Trans-Central Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73edb"},"Code":"TCO","Description":"Trans-Colorado Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73edc"},"Code":"TCQ","Description":"Express.Net Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73edd"},"Code":"TDQ","Description":"Venexcargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ede"},"Code":"TDQ (1)","Description":"Transcarga"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73edf"},"Code":"TEN","Description":"Tennessee Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee0"},"Code":"TER","Description":"Terre Haute Air Commuter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee1"},"Code":"TFQ","Description":"Trans Int'l Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee2"},"Code":"TFZ","Description":"Tri-State Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee3"},"Code":"TG","Description":"Thai Airways Int'l Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee4"},"Code":"TGO","Description":"Trans Air Cargo Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee5"},"Code":"TGQ","Description":"Tranps Aereos Guatemaltecos"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee6"},"Code":"TH","Description":"Transmile Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee7"},"Code":"THA","Description":"Tropical Helicopter Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee8"},"Code":"THO","Description":"Thorson Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ee9"},"Code":"TAT","Description":"Talarik Creek Air Taxi"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eea"},"Code":"TB","Description":"USAir Shuttle"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eeb"},"Code":"TBQ","Description":"Triair Bermuda Flt Operations"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eec"},"Code":"THQ","Description":"T-Bird Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eed"},"Code":"TIA","Description":"Trans Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eee"},"Code":"TIE","Description":"Trans International Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eef"},"Code":"TIQ","Description":"Tyrolean Jet Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef0"},"Code":"TIS","Description":"Skyfreight"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef1"},"Code":"TLQ","Description":"Trans-Mediterranean Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef2"},"Code":"TMA","Description":"Trans Mo Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef3"},"Code":"TN","Description":"Air Tahiti Nui"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef4"},"Code":"TNQ","Description":"Emery Worldwide Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef5"},"Code":"TNS","Description":"Transtate Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef6"},"Code":"TP","Description":"Tap-Portuguese Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef7"},"Code":"TPQ","Description":"Aerial Transit Company"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef8"},"Code":"TQQ","Description":"Taca Peru"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73ef9"},"Code":"TR","Description":"Transbrasil S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73efa"},"Code":"TRI","Description":"Great Plains Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73efb"},"Code":"TRO","Description":"Air Molakai"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73efc"},"Code":"TRP","Description":"Trans Pennsylvania Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73efd"},"Code":"TRQ","Description":"Blue Scandinavia Ab"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73efe"},"Code":"TRR","Description":"Territorial Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73eff"},"Code":"TS","Description":"Air Transat"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f00"},"Code":"TSF","Description":"American Central Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f01"},"Code":"TSI","Description":"Trans Sierra Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f02"},"Code":"TSQ","Description":"TPI International Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f03"},"Code":"TJ","Description":"Jet Charter Service Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f04"},"Code":"TK","Description":"Turk Hava Yollari A.O."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f05"},"Code":"TKQ","Description":"Trans-Air-Link Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f06"},"Code":"TTM","Description":"The Time Machine"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f07"},"Code":"TUL","Description":"Tulsair Beechcraft Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f08"},"Code":"TUR","Description":"Turner Aire"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f09"},"Code":"TV","Description":"Haiti Trans Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f0a"},"Code":"TV (1)","Description":"Transamerica Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f0b"},"Code":"TW","Description":"Trans World Airways LLC","depDelay":[{"time":3272407,"year":1996},{"time":1951362,"year":1997}],"arrDelay":[{"time":3176127,"year":1996},{"time":1521353,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f0c"},"Code":"TX","Description":"Soc.Nouvelle Air Guadeloupe"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f0d"},"Code":"TX (1)","Description":"Transportes Aereos Nacional"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f0e"},"Code":"TXA","Description":"Texas National Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f0f"},"Code":"TXE","Description":"Trans Air (Hawaii)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f10"},"Code":"TXQ","Description":"British Caribbean Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f11"},"Code":"TWE","Description":"Trans World Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f12"},"Code":"TWA","Description":"Trans Western Airlines Utah"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f13"},"Code":"TZ","Description":"ATA Airlines d/b/a ATA"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f14"},"Code":"TZQ","Description":"First Choice Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f15"},"Code":"U2","Description":"UFS Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f16"},"Code":"U5","Description":"USA 3000 Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f17"},"Code":"U7","Description":"USA Jet Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f18"},"Code":"UA","Description":"United Air Lines Inc.","depDelay":[{"time":8938005,"year":1996},{"time":7212661,"year":1997}],"arrDelay":[{"time":7344058,"year":1996},{"time":6320428,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f19"},"Code":"TVL","Description":"Travelair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f1a"},"Code":"UC","Description":"Ladeco"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f1b"},"Code":"UD","Description":"Fast Air Carrier Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f1c"},"Code":"UH","Description":"US Helicopter Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f1d"},"Code":"UAI","Description":"Universal Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f1e"},"Code":"UN","Description":"Transaero Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f1f"},"Code":"UNQ","Description":"Overseas National Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f20"},"Code":"UP","Description":"Bahamasair Holding Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f21"},"Code":"UR","Description":"Empire Airlines Inc. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f22"},"Code":"URQ","Description":"Aero Uruguay"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f23"},"Code":"TXY","Description":"Texas Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f24"},"Code":"TYE","Description":"Temsco Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f25"},"Code":"UT","Description":"Union De Transports Aeriens"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f26"},"Code":"UTQ","Description":"Universal Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f27"},"Code":"UX","Description":"Air Europa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f28"},"Code":"UX (1)","Description":"Air Illinois Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f29"},"Code":"UMQ","Description":"Air Manila Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f2a"},"Code":"V4","Description":"Vensecar International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f2b"},"Code":"US","Description":"US Airways Inc. (Merged with America West 9/05. Reporting for both starting 10/07.)","depDelay":[{"time":6440732,"year":1996},{"time":4341189,"year":1997}],"arrDelay":[{"time":5778174,"year":1996},{"time":3923814,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f2c"},"Code":"USA","Description":"Air U.S."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f2d"},"Code":"UYQ","Description":"Aerolineas Uruguayas S.A."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f2e"},"Code":"VA","Description":"Venezuelan Int'l Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f2f"},"Code":"VAG","Description":"Vagabond Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f30"},"Code":"VAQ","Description":"Vacationair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f31"},"Code":"VAS","Description":"Valley Air Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f32"},"Code":"VB","Description":"Pacific Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f33"},"Code":"VC","Description":"Servicios Avensa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f34"},"Code":"VCQ","Description":"Victory Air Transport Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f35"},"Code":"VE","Description":"Aerovias Venezolanas-Avensa"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f36"},"Code":"VER","Description":"Britt Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f37"},"Code":"VEZ","Description":"Valdez Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f38"},"Code":"VH","Description":"Aeropostal Alas De Venezuel"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f39"},"Code":"VI","Description":"Vieques Air Link Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f3a"},"Code":"VIG","Description":"Viking Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f3b"},"Code":"VIN","Description":"Vale International Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f3c"},"Code":"VIQ","Description":"Volga-Dnepr Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f3d"},"Code":"VIQ (1)","Description":"Viscount Air Service Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f3e"},"Code":"VIS","Description":"Virgin Islands Seaplane"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f3f"},"Code":"VK","Description":"Air Tungaru Corporation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f40"},"Code":"V8","Description":"Iliamna Air Taxi"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f41"},"Code":"V9","Description":"Eagle Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f42"},"Code":"V5","Description":"J.D.Valenciana De Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f43"},"Code":"VL","Description":"Mid-South Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f44"},"Code":"VLA","Description":"Village Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f45"},"Code":"VLY","Description":"Valley Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f46"},"Code":"VOQ","Description":"Avalon Aviation Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f47"},"Code":"VP","Description":"Viacao Aerea Sao Paulo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f48"},"Code":"VSA","Description":"VistaJet Luftfahrtunternehmen GmbH"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f49"},"Code":"VV","Description":"Aerosvit Ukranian Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f4a"},"Code":"VV (1)","Description":"Challenge Air Transport Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f4b"},"Code":"VV (2)","Description":"Challenge Air Int'l Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f4c"},"Code":"VX","Description":"Virgin America"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f4d"},"Code":"VX (1)","Description":"Aces Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f4e"},"Code":"VY","Description":"Highland Express Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f4f"},"Code":"W4","Description":"Mn Aviation, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f50"},"Code":"W7","Description":"Western Pacific Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f51"},"Code":"W8","Description":"Cargojet Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f52"},"Code":"W9","Description":"Eastwind Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f53"},"Code":"WA","Description":"Worldwide Airlines Services"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f54"},"Code":"WA (1)","Description":"Western Air Lines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f55"},"Code":"WAC","Description":"Air East Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f56"},"Code":"WAI","Description":"Wise Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f57"},"Code":"WAP","Description":"Arrow Panama"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f58"},"Code":"WAQ","Description":"Air Charter Systems (Acs)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f59"},"Code":"WAR","Description":"Waring Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f5a"},"Code":"VQ","Description":"Vintage Props \u0026 Jets Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f5b"},"Code":"VR","Description":"Transportes Aereos De Cabo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f5c"},"Code":"VS","Description":"Virgin Atlantic Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f5d"},"Code":"WAW","Description":"Westward Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f5e"},"Code":"WC","Description":"Wien Air Alaska Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f5f"},"Code":"WCA","Description":"Walker's International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f60"},"Code":"WCI","Description":"Mountainwest Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f61"},"Code":"WD","Description":"Halisa Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f62"},"Code":"WEQ","Description":"Aero-Services-Corporate"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f63"},"Code":"WES","Description":"Western Star Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f64"},"Code":"WET","Description":"Western Charter Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f65"},"Code":"WFS","Description":"Wheeler Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f66"},"Code":"WFT","Description":"Westflight Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f67"},"Code":"WG","Description":"Sunwing Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f68"},"Code":"WGL","Description":"Wrangell Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f69"},"Code":"WGQ","Description":"Gateway Aviation Limited"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f6a"},"Code":"WI","Description":"Tradewinds Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f6b"},"Code":"WIA","Description":"Wisc Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f6c"},"Code":"WIL","Description":"Will's Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f6d"},"Code":"WIR","Description":"Williams Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f6e"},"Code":"WL","Description":"World Air Network"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f6f"},"Code":"WLH","Description":"Welch Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f70"},"Code":"WLQ","Description":"Worldwide Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f71"},"Code":"WM","Description":"Windward Islands Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f72"},"Code":"WMA","Description":"WRANGELL MOUNTAIN AIR INC."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f73"},"Code":"WN","Description":"Southwest Airlines Co.","depDelay":[{"time":6638287,"year":1996},{"time":6730358,"year":1997}],"arrDelay":[{"time":5143858,"year":1996},{"time":5206523,"year":1997}]}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f74"},"Code":"WDQ","Description":"Wardair Canada Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f75"},"Code":"WE","Description":"Centurion Cargo Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f76"},"Code":"WEB","Description":"Southeast Alaska Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f77"},"Code":"WNG","Description":"Wings Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f78"},"Code":"WNQ","Description":"Winair Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f79"},"Code":"WO","Description":"World Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f7a"},"Code":"WP","Description":"Island Air Hawaii"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f7b"},"Code":"WRA","Description":"Wra Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f7c"},"Code":"WS (1)","Description":"Suncoast Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f7d"},"Code":"WSK","Description":"AAR Western Skyways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f7e"},"Code":"WST","Description":"West Isle Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f7f"},"Code":"WSU","Description":"Mission Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f80"},"Code":"WT","Description":"Nigeria Airways Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f81"},"Code":"WTA","Description":"Westates Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f82"},"Code":"WV","Description":"Air South Inc. (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f83"},"Code":"WWI","Description":"Wings West Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f84"},"Code":"WWQ","Description":"Worldways Canada Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f85"},"Code":"X9","Description":"Omni Air Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f86"},"Code":"XAA","Description":"Aero Union Corp"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f87"},"Code":"XAB","Description":"Air Polynesia dba DHL Cargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f88"},"Code":"XAC","Description":"Air Express Int'l Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f89"},"Code":"XAE","Description":"Amerford Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f8a"},"Code":"XAF","Description":"Astro-Wing Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f8b"},"Code":"XAG","Description":"Ball Brothers Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f8c"},"Code":"XAH","Description":"Hawaii Pacific Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f8d"},"Code":"XAI","Description":"Burlington Northern Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f8e"},"Code":"WRD","Description":"Ward Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f8f"},"Code":"WRT","Description":"Wright Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f90"},"Code":"WS","Description":"Westjet"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f91"},"Code":"XAJ","Description":"Central American Int'l"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f92"},"Code":"XAK","Description":"Century Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f93"},"Code":"XAM","Description":"Cohlmia Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f94"},"Code":"XAO","Description":"Dallas Flight Center"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f95"},"Code":"XAQ","Description":"Cam Air International Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f96"},"Code":"XAU","Description":"Flight Line Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f97"},"Code":"XAY","Description":"Pat Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f98"},"Code":"XAZ","Description":"Purolator Sky Courier Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f99"},"Code":"XBC","Description":"Jet East Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f9a"},"Code":"XBF","Description":"WTC Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f9b"},"Code":"XBH","Description":"Profit Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f9c"},"Code":"XBI","Description":"CF Air Freight"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f9d"},"Code":"XBJ","Description":"International Air Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f9e"},"Code":"XBM","Description":"Phh Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73f9f"},"Code":"XBP","Description":"Circle Airfreight Corp."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa0"},"Code":"XBQ","Description":"Aeronaves De Puerto Rico"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa1"},"Code":"XBR","Description":"Allstates Air Cargo Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa2"},"Code":"XBT","Description":"Pacific Alaska Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa3"},"Code":"XBV","Description":"Nal Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa4"},"Code":"XBX","Description":"Icb International Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa5"},"Code":"XBZ","Description":"Air Natl Aircraft Sal \u0026 Ser"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa6"},"Code":"XC","Description":"Air Caribbean (1)"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa7"},"Code":"XCA","Description":"Hawkins And Powers Aviation"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa8"},"Code":"XAR","Description":"Jet Way Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fa9"},"Code":"XAS","Description":"Klondike Air Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73faa"},"Code":"XAT","Description":"Michigan Peninsula Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fab"},"Code":"XDA","Description":"Pacific Air Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fac"},"Code":"XDC","Description":"Hemisphere Air Charter"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fad"},"Code":"XDD","Description":"Int'l Parcel Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fae"},"Code":"XDE","Description":"Air Train Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73faf"},"Code":"XDF","Description":"Salair Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb0"},"Code":"XJ","Description":"Mesaba Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb1"},"Code":"XK","Description":"Aerotal"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb2"},"Code":"XL","Description":"Lan Ecuador"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb3"},"Code":"XP","Description":"Casino Express"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb4"},"Code":"XPA","Description":"Express Air/dba Sunrise"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb5"},"Code":"XPQ","Description":"International Cargo Xpress"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb6"},"Code":"XV","Description":"Presidential Airways Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb7"},"Code":"XY","Description":"Munz Northern Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb8"},"Code":"XYZ","Description":"Airpac Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fb9"},"Code":"Y7","Description":"Flyjet Limited d/b/a Silverjet"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fba"},"Code":"Y8","Description":"Yangtze River Express Airlines Company"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fbb"},"Code":"YAT","Description":"Friendship Airways, Inc. d/b/a Yellow Air Taxi"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fbc"},"Code":"YB","Description":"Trans Continental Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fbd"},"Code":"YBQ","Description":"Yellow Bird Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fbe"},"Code":"YM","Description":"Royal West Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fbf"},"Code":"YR","Description":"Scenic Airlines Inc. d/b/a Scenic Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc0"},"Code":"YV","Description":"Mesa Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc1"},"Code":"YX","Description":"Midwest Airline, Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc2"},"Code":"XDH","Description":"Kitty Hawk Air Cargo"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc3"},"Code":"XE","Description":"Expressjet Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc4"},"Code":"XF","Description":"Vladivostok Air"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc5"},"Code":"Z3","Description":"PM Air, LLC"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc6"},"Code":"Z3 (1)","Description":"Promech"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc7"},"Code":"ZA","Description":"Accessair Holdings"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc8"},"Code":"ZAQ","Description":"Zas Airline Of Egypt"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fc9"},"Code":"ZB","Description":"Monarch Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fca"},"Code":"ZK","Description":"Great Lakes Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fcb"},"Code":"ZKQ","Description":"Zantop International"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fcc"},"Code":"ZL","Description":"Affretair"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fcd"},"Code":"ZMZ","Description":"Winnipesaukee Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fce"},"Code":"ZN","Description":"Key Airlines Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fcf"},"Code":"ZO","Description":"Florida Express Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd0"},"Code":"ZP","Description":"Air St. Thomas"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd1"},"Code":"ZQ","Description":"Caribbean Sun Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd2"},"Code":"ZS","Description":"Hispaniola Airways"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd3"},"Code":"ZUQ","Description":"Zuliana De Aviacion"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd4"},"Code":"ZV","Description":"Air Midwest Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd5"},"Code":"ZW","Description":"Air Wisconsin Airlines Corp"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd6"},"Code":"ZE","Description":"Lineas Aereas Azteca"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd7"},"Code":"ZX (1)","Description":"Airbc Ltd."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd8"},"Code":"ZY","Description":"Atlantic Gulf Airlines"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fd9"},"Code":"ZYZ","Description":"Skyway Aviation Inc."}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fda"},"Code":"ZFZ","Description":"Mcphillips Flying Service"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fdb"},"Code":"ZIA","Description":"Air New Mexico"}
+{"_id":{"$oid":"5d33e8c96a32a52cdbd73fdc"},"Code":"ZX","Description":"Air Georgian"}
