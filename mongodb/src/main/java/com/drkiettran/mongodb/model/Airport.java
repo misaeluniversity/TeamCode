@@ -105,7 +105,7 @@ public class Airport  {
 	}
 
 	private String weatherReport;
-	@Field("DepDelay")
+	@Field("depDelay")
 	private List<DepDelay> depDelay;
 	
 	

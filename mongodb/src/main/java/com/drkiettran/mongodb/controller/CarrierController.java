@@ -5,6 +5,7 @@ import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.List;
 
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.repository.query.Param;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,8 +23,8 @@ public class CarrierController {
 	CarrierRepositoryImpl repository;
 
 	@RequestMapping(value = "/carriers", method = RequestMethod.GET)
-	public Carrier findByTailnum(@Param("Code") String code) {
-		return repository.findByCode(code);
+	public Carrier findByCode(@Param("Code") String Code) {
+		return repository.findByCode(Code);
 	}
 	
 	
