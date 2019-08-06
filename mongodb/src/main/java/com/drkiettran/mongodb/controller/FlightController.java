@@ -28,4 +28,14 @@ public class FlightController {
 	public List<Flight> findByMostArrDelay() {
 		return repository.findByMostArrDelay();
 	}
+	@RequestMapping(value = "/flights/flightsLeastDepartureDelay", method = RequestMethod.GET)
+	public List<Flight> findByLeastDepDelay() {
+		return repository.findByLeastDepDelay();
+	}
+	
+	@RequestMapping(value = "/flights/flightsMostDepartureDelay", method = RequestMethod.GET)
+	public List<Flight> findByMostDepDelay() {
+		return repository.findByMostDepDelay();
+	}
+
 }

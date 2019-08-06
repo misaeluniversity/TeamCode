@@ -1,5 +1,7 @@
 package com.drkiettran.mongodb.model;
 
+import java.util.List;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
@@ -8,10 +10,27 @@ import org.springframework.data.mongodb.core.mapping.Field;
 public class Carrier {
 	@Id
 	private String id;
-
+	@Field("Code")
 	private String code;
 	private String description;
+	private List<Delay>arrDelay ;
+	private List<Delay>depDelay ;
 
+	public List<Delay> getArrDelay() {
+		return arrDelay;
+	}
+
+	public void setArrDelay(List<Delay> arrDelay) {
+		this.arrDelay = arrDelay;
+	}
+
+	public List<Delay> getDepDelay() {
+		return depDelay;
+	}
+
+	public void setDepDelay(List<Delay> depDelay) {
+		this.depDelay = depDelay;
+	}
 
 	@Field("long")
 	private String longi;

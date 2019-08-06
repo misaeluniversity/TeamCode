@@ -18,8 +18,18 @@ public class Flight  {
 	private String id;
 
 	private String TailNum;
-	private List<ArrDelay>arrDelay ;
+	private List<Delay>arrDelay ;
+	private List<Delay>depDelay ;
+
 	
+	public List<Delay> getDepDelay() {
+		return depDelay;
+	}
+
+	public void setDepDelay(List<Delay> depDelay) {
+		this.depDelay = depDelay;
+	}
+
 	public String getTailNum() {
 		return TailNum;
 	}
@@ -28,31 +38,14 @@ public class Flight  {
 		TailNum = tailNum;
 	}
 
-	public List<ArrDelay> getArrDelay() {
+	public List<Delay> getArrDelay() {
 		return arrDelay;
 	}
 
-	public void setArrDelay(List<ArrDelay> arrDelay) {
+	public void setArrDelay(List<Delay> arrDelay) {
 		this.arrDelay = arrDelay;
 	}
 	
-	public class ArrDelay{
-		
-		public int getYear() {
-			return year;
-		}
-		public void setYear(int year) {
-			this.year = year;
-		}
-		public int getTime() {
-			return time;
-		}
-		public void setTime(int time) {
-			this.time = time;
-		}
-		int year;
-		int time;
-	}
 
 	@Field("long")
 	private String longi;

@@ -24,37 +24,18 @@ public class Airport  {
 	private String country;
 	private String lat;
 	@Field("arrDelay")
-	private List<ArrDelay>arrDelay ;
+	private List<Delay>arrDelay ;
 	
 
 
-	public List<ArrDelay> getArrDelay() {
+	public List<Delay> getArrDelay() {
 		return arrDelay;
 	}
 
-	public void setArrDelay(List<ArrDelay> arrDelay) {
+	public void setArrDelay(List<Delay> arrDelay) {
 		this.arrDelay = arrDelay;
 	}
 
-	public class ArrDelay{
-		
-		public int getYear() {
-			return year;
-		}
-		public void setYear(int year) {
-			this.year = year;
-		}
-		public int getTime() {
-			return time;
-		}
-		public void setTime(int time) {
-			this.time = time;
-		}
-		@Field("year")
-		int year;
-		@Field("time")
-		int time;
-	}
 
 	@Field("long")
 	private String longi;
