@@ -30,4 +30,14 @@ public class AirportController {
 	public List<Airport> findByMostArrDelay() {
 		return repository.findByMostArrDelay();
 	}
+	
+	@RequestMapping(value = "/airports/airportsmostdeptdelay", method = RequestMethod.GET)
+	public List<Airport> findByMostDepDelay() {
+		return repository.findByMostDepDelay();
+	}
+	
+	@RequestMapping(value = "/airports/airportsleastdeptdelay", method = RequestMethod.GET)
+	public List<Airport> findByLeasttDepDelay() {
+		return repository.findByLeastDepDelay();
+	}
 }

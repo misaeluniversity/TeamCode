@@ -104,7 +104,48 @@ public class Airport  {
 		this.longi = longi;
 	}
 
+	private String weatherReport;
+	@Field("DepDelay")
+	private List<DepDelay> depDelay;
+	
+	
 
+	public List<DepDelay> getDepDelay() {
+		return depDelay;
+	}
+
+	public void setDepDelay(List<DepDelay> depDelay) {
+		this.depDelay = depDelay;
+	}
+	
+	 public class DepDelay{
+		
+		public int getYear() {
+			return year;
+		}
+		public void setYear(int year) {
+			this.year = year;
+		}
+		public int getTime() {
+			return time;
+		}
+		public void setTime(int time) {
+			this.time = time;
+		}
+		@Field("year")
+		int year;
+		@Field("time")
+		int time;
+	}
+	
+
+	public String getWeatherReport() {
+		return weatherReport;
+	}
+
+	public void setWeatherReport(String weatherReport) {
+		this.weatherReport = weatherReport;
+	}
 
 }
 

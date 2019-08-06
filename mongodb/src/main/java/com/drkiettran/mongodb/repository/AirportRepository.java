@@ -21,5 +21,11 @@ public interface AirportRepository extends MongoRepository<Airport, String> {
 	
 	@Query("{}")
 	ArrayList<Airport> findByMostArrDelay();
+	
+	@Query("{}")
+	ArrayList<Airport> findByMostDepDelay();
+	
+	@Query("{}")
+	ArrayList<Airport> findByLeastDepDelay();
 
 }
