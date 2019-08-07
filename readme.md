@@ -36,16 +36,6 @@ hdfs dfs -mkdir /user/student
 hdfs dfs -mkdir /user/student/airline
 hdfs dfs -mkdir /user/student/airline/output
 hdfs dfs -mkdir /user/student/airline/output/1996
-hdfs dfs -mkdir /user/student/airline/output/1997
-hdfs dfs -mkdir /user/student/airline/output/1998
-hdfs dfs -mkdir /user/student/airline/output/1999
-hdfs dfs -mkdir /user/student/airline/output/2000
-hdfs dfs -mkdir /user/student/airline/output/2001
-hdfs dfs -mkdir /user/student/airline/output/2002
-hdfs dfs -mkdir /user/student/airline/output/2003
-hdfs dfs -mkdir /user/student/airline/output/2004
-hdfs dfs -mkdir /user/student/airline/output/2005
-hdfs dfs -mkdir /user/student/airline/output/2006
 
 ```
 
@@ -142,17 +132,22 @@ java -jar target/mongodb-0.0.1-SNAPSHOT.jar
 
 ```
 
-## Postman test URLs:
-
-```
-http://localhost:8080/airports?iata=06N
-http://localhost:8080/planes?tailnum=N104UA
-```
-
 ## Curl
 
 ```
 curl http://localhost:8080/airports?iata=06N
 curl http://localhost:8080/planes?tailnum=N104UA
+curl http://localhost:8080/airports/airportsLeastArrivalDelay
+curl http://localhost:8080/airports/airportsMostArrivalDelay
+curl http://localhost:8080/airports/airportsMostDepartureDelay
+curl http://localhost:8080/airports/airportsLeastDepartureDelay
+curl http://localhost:8080/carriers?Code=02Q
+curl http://localhost:8080/carriers/carriersAverageArrivalDelay
+curl http://localhost:8080/carriers/carriersAverageDepartureDelay
+curl http://localhost:8080/flights/flightsMostDepartureDelay
+curl http://localhost:8080/flights/flightsLeastDepartureDelay
+curl http://localhost:8080/flights/flightsMostArrivalDelay
+curl http://localhost:8080/flights/flightsLeastArrivalDelay
+curl http://localhost:8080/planes?tailnum=N050AA
 ```
 
