@@ -326,4 +326,84 @@ public class FlightRepositoryImpl implements FlightRepository {
 		return false;
 	}
 
+	@Override
+	public Integer findAverageByArrDelayBefore2001() {
+		ArrayList<Flight> flightsList = (ArrayList<Flight>) mongoTemplate.findAll(Flight.class);
+		int yearcount = 0;
+		int average = 0;
+		for (int i=0;i<flightsList.size();i++) {
+			if(!(flightsList.get(i).getArrDelay() == null)) {
+				for(int j = 0;j<flightsList.get(i).getArrDelay().size();j++) {
+					
+					if(flightsList.get(i).getArrDelay().get(j).getYear()<2001) {
+						yearcount++;
+						average = average + flightsList.get(i).getArrDelay().get(j).getTime();
+					}
+				}
+				
+			}
+		}
+		return average/yearcount;
+	}
+
+	@Override
+	public Integer findByAverageDepDelayBefore2001() {
+		ArrayList<Flight> flightsList = (ArrayList<Flight>) mongoTemplate.findAll(Flight.class);
+		int yearcount = 0;
+		int average = 0;
+		for (int i=0;i<flightsList.size();i++) {
+			if(flightsList.get(i).getDepDelay()!= null) {
+				for(int j = 0;j<flightsList.get(i).getDepDelay().size();j++) {
+					if(flightsList.get(i).getDepDelay().get(j).getYear()<2001) {
+						yearcount++;
+						average = average + flightsList.get(i).getDepDelay().get(j).getTime();
+					}
+				}
+				
+			}
+		}
+		return average/yearcount;
+
+	}
+
+	@Override
+	public Integer findAverageByArrDelayAfter2001() {
+		ArrayList<Flight> flightsList = (ArrayList<Flight>) mongoTemplate.findAll(Flight.class);
+		int yearcount = 0;
+		int average = 0;
+		for (int i=0;i<flightsList.size();i++) {
+			if(flightsList.get(i).getArrDelay()!= null) {
+				for(int j = 0;j<flightsList.get(i).getArrDelay().size();j++) {
+					if(flightsList.get(i).getArrDelay().get(j).getYear()>2001) {
+						yearcount++;
+						average = average + flightsList.get(i).getArrDelay().get(j).getTime();
+					}
+				}
+				
+			}
+		}
+		return average/yearcount;
+
+	}
+
+	@Override
+	public Integer findByAverageDepDelayAfer2001() {
+		ArrayList<Flight> flightsList = (ArrayList<Flight>) mongoTemplate.findAll(Flight.class);
+		int yearcount = 0;
+		int average = 0;
+		for (int i=0;i<flightsList.size();i++) {
+			if(flightsList.get(i).getDepDelay()!= null) {
+				for(int j = 0;j<flightsList.get(i).getDepDelay().size();j++) {
+					if(flightsList.get(i).getDepDelay().get(j).getYear()>2001) {
+						yearcount++;
+						average = average + flightsList.get(i).getDepDelay().get(j).getTime();
+					}
+				}
+				
+			}
+		}
+		return average/yearcount;
+
+	}
+
 }
